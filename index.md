@@ -1,8 +1,8 @@
 ---
 title: 'We are #MiamiTech'
 layout: default
-image: /assets/images/socialimg.png 
-counter: 406
+image: /assets/images/socialimg.png
+counter: 522
 ---
 Miami has always been a haven for innovators, for builders, for disrupters and for those wielding the power of technology as a tool of change.    
 
@@ -10,7 +10,7 @@ Now, at a time when physical anchors to place are a movable constant, the spotli
 
 We’re taking advantage of this unique moment to articulate the values, opportunities, and principles that guide our vision -- both for ourselves and for those who wish to join us.  
 
-This Manifesto is of, by, and for, the people behind the #miamitech movement. 
+This Manifesto is of, by, and for, the people behind the #miamitech movement.
 
 ## We Are <span class="highlight">A Community of Builders </span>
 We have grit, ingenuity, and as one of most entrepreneurial metro regions in the country, we innovate by necessity and for purpose beyond profit.  What you build in Miami will work anywhere.
@@ -21,11 +21,11 @@ We are a testing ground for novel ideas and experimentation. Our leaders are eag
 ## We Believe <span class="highlight">Talent is Universal</span>
 But we recognize that opportunity is not.  We are cultivating experiential and educational environments that address the human capital needs of 21st century companies.  Investing in an inclusive technology and entrepreneurial pipeline requires everyone do their part.
 
-## We Are <span class="highlight">Home To Outsiders</span> 
-Over half of our population is foreign-born and we have one of the largest concentrations of immigrant entrepreneurs per capita. We value relationships and strive to welcome newcomers with open arms.  We make it our business to break down opportunity silos and concentrated power structures.  We do so to make it easier for all to integrate, connect and navigate this ecosystem. 
+## We Are <span class="highlight">Home To Outsiders</span>
+Over half of our population is foreign-born and we have one of the largest concentrations of immigrant entrepreneurs per capita. We value relationships and strive to welcome newcomers with open arms.  We make it our business to break down opportunity silos and concentrated power structures.  We do so to make it easier for all to integrate, connect and navigate this ecosystem.
 
 ## We Are <span class="highlight">A Global Launchpad</span>
-We are the gateway city, not only to LATAM and the Caribbean, but to the world.  Our unique geographic position makes us an ideal landing pad for capital and ventures seeking to expand internationally or enter the US market. 
+We are the gateway city, not only to LATAM and the Caribbean, but to the world.  Our unique geographic position makes us an ideal landing pad for capital and ventures seeking to expand internationally or enter the US market.
 
 ## We Are <span class="highlight">Driven By Our Inclusive Values</span>
 Our community is multilingual, multi-cultural and though we struggle with meaningful integration, we are a true representation of the future of American cities: a majority-minority demographic. We are uniquely diverse but we are not yet a model for inclusion. Though, with such a large Hispanic and Caribbean population, it would be easy for us to make this claim.  
@@ -36,7 +36,7 @@ We aspire to be an ecosystem designed for and embodied by inclusion, access, rac
 We will never be the new Silicon Valley, Silicon Beach or anything but what makes our community unique.  We are not a barren wasteland for startups.  We rank high on startup activity and like most emerging markets are building the infrastructure necessary to increase the rate of scale.  Miami has earned a reputation as a global hub for technology and entrepreneurship because we have intentionally laid the groundwork over many years.
 
 ## We Are <span class="highlight">Collaborative</span>
-We know that innovation is not a zero sum game.  It’s in our best interest to work together. Let’s collectively seek first to understand our existing ecosystem and aim to be additive, not duplicative.   But, please, get in where you best fit in and always endeavor to amplify the work of others. 
+We know that innovation is not a zero sum game.  It’s in our best interest to work together. Let’s collectively seek first to understand our existing ecosystem and aim to be additive, not duplicative.   But, please, get in where you best fit in and always endeavor to amplify the work of others.
 
 ## We Are <span class="highlight">Women-Led</span>
 We are the only major US city founded by a woman.  In fact, we’re proud that so many of the resources for founders -- from the accelerators, incubators, angel groups, coworking spaces, programs and conferences -- are women led.This doesn’t mean we’re free from the inequities in representative board leadership, access to capital, or the endemic bro-culture that plagues other tech communities. We all remain vigilant to avoid gender exclusive panels, committees or advisory groups.
@@ -44,21 +44,21 @@ We are the only major US city founded by a woman.  In fact, we’re proud that s
 ## We Are <span class="highlight">Transparent About Failure</span>
 Which is really hard to do.  We still struggle with calling out the outliers whose actions erode public trust and confidence. Let’s be honest: we have a storied history of racial inequality, striking disparities, affordability, homelessness, financial insecurity, gentrification and cultural fragmentation.  Yet, we are constantly learning from our mistakes and from lessons of failures in other communities.
 
-## We Are <span class="highlight">Building Together</span> 
-We are building with intention, not perfection.  We welcome challenges, constructive critique, but most importantly, folks who want to make Miami better. 
+## We Are <span class="highlight">Building Together</span>
+We are building with intention, not perfection.  We welcome challenges, constructive critique, but most importantly, folks who want to make Miami better.
 
 As we evolve, so will this #MiamiTech Manifesto.  It is a living statement of purpose and accountability.  It is a representation of our commitment to who we are as an ecosystem and where we strive to be.  It is a declaration of the principles we aim to uphold and the values we endeavor to embody.  
 
 Don’t just observe, become an active participant in our experiment. <a href="https://forms.gle/xdVAqt6joyorSYHX6" target="_blank">Take the pledge,</a> add these principles to your website or favorite online platform, and contribute in a way that adds value to our community.
 
 # We are <span class="highlight">#MiamiTech</span>
-The following members of the #MiamiTech community have committed to upholding these values, staying accountable to each other and the community at-large, and building a more prosperous and equitable tech community together. 
+The following members of the #MiamiTech community have committed to upholding these values, staying accountable to each other and the community at-large, and building a more prosperous and equitable tech community together.
 
 **Michelle Abbs,** Managing Director Mana Tech
 
 **Chris Adamo,** CBO/Investor at WhereBy.Us/Letterhead
 
-**Maritza T. Adonis,** MTA Visions Global CSR & Gov’t Relations 
+**Maritza T. Adonis,** MTA Visions Global CSR & Gov’t Relations
 
 **Liz Rebecca Alarcón,** Founder & Executive Director, Pulso
 
@@ -128,7 +128,7 @@ The following members of the #MiamiTech community have committed to upholding th
 
 **Maria Derchi Russo,** Refresh Miami
 
-**Arjun Desai,** Insightec 
+**Arjun Desai,** Insightec
 
 **Jason Devlin,** Watsco Ventures
 
@@ -136,11 +136,11 @@ The following members of the #MiamiTech community have committed to upholding th
 
 **Brent R. Dixon**
 
-**Vanessa Duran,** Principal at DCC Accounting 
+**Vanessa Duran,** Principal at DCC Accounting
 
 **Joshua Eisenberg,** PhD, Lead Scientist NLU @ Artie inc.
 
-**Cesar Fernandez** - Converge Government Affairs, ex-Uber 
+**Cesar Fernandez** - Converge Government Affairs, ex-Uber
 
 **Wifredo “Wifi” Fernández** - Scout, Lightspeed Venture Partners
 
@@ -154,7 +154,7 @@ The following members of the #MiamiTech community have committed to upholding th
 
 **Krystina François,** Executive Director, Office of New Americans of Miami-Dade
 
-**Michael Friedberg,** Founder/President of SEO Nerd 
+**Michael Friedberg,** Founder/President of SEO Nerd
 
 **Maurice Gabriel,** Your Strategic Partner
 
@@ -176,7 +176,7 @@ The following members of the #MiamiTech community have committed to upholding th
 
 **Patricio Guitart**
 
-**Matt Haggman,** Beacon Council 
+**Matt Haggman,** Beacon Council
 
 **Michael Hall,** Founder, Digital Grass
 
@@ -208,7 +208,7 @@ The following members of the #MiamiTech community have committed to upholding th
 
 **Sergio Leon,** Co-Founder 1Nation Digital
 
-**Moishe mana** .mana common 
+**Moishe mana** .mana common
 
 **Nacho Marcotegui** - NEORIS USA, INC
 
@@ -220,7 +220,7 @@ The following members of the #MiamiTech community have committed to upholding th
 
 **Kerry McLaney,** 305 Creative & Art Vault
 
-**Melissa Medina,** eMerge Americas 
+**Melissa Medina,** eMerge Americas
 
 **Kevin V. Michael,** Co-Founder & CEO, Invizio
 
@@ -238,19 +238,19 @@ The following members of the #MiamiTech community have committed to upholding th
 
 **Courtney Murtha**
 
-**Marcia Narine Weldon,** Illuminating Wisdom, LLC 
+**Marcia Narine Weldon,** Illuminating Wisdom, LLC
 
-**Lisa Nuessle,** General Manager, Ironhack 
+**Lisa Nuessle,** General Manager, Ironhack
 
-**Francisco Opazo,** Entrepreneur 
+**Francisco Opazo,** Entrepreneur
 
 **Michael Ortali**
 
-**Anabel Perez,** NovoPayment 
+**Anabel Perez,** NovoPayment
 
 **Alex Perez**
 
-**Cari Pérez,** General Assembly 
+**Cari Pérez,** General Assembly
 
 **Oscar Perez**
 
@@ -258,11 +258,11 @@ The following members of the #MiamiTech community have committed to upholding th
 
 **Justin Pinn,** Board Member, Miami EdTech
 
-**Joanna Popper,** HP, Global Head of VR Go-To-Market 
+**Joanna Popper,** HP, Global Head of VR Go-To-Market
 
 **Emmanuela Prevolis**
 
-**Gio Punzo,** Streann Media 
+**Gio Punzo,** Streann Media
 
 **Ivan Rapin-Smith,** Watsco Ventures
 
@@ -278,7 +278,7 @@ The following members of the #MiamiTech community have committed to upholding th
 
 **Gabriel Roizner,** Co-founder & CEO Mozper
 
-**Jorge Ruiz,** CEO, Finconecta 
+**Jorge Ruiz,** CEO, Finconecta
 
 **Marcelo Russo,** Co-founder and COO, QRoom
 
@@ -290,7 +290,7 @@ The following members of the #MiamiTech community have committed to upholding th
 
 **Marte Siebenhar**
 
-**Gigi Silver** 
+**Gigi Silver**
 
 **Franklin Sirmans,** Pérez Art Museum Miami
 
@@ -298,19 +298,19 @@ The following members of the #MiamiTech community have committed to upholding th
 
 **Cristina Solana,**  MiamiJS and Code for Miami
 
-**Felipe Solano,** Google Cloud 
+**Felipe Solano,** Google Cloud
 
 **Rodrigo Teijeiro,** Founder & CEO of RecargaPay
 
 **Roger E. Teran**
 
-**Gessica Tortolano** Wyncode Academy 
+**Gessica Tortolano** Wyncode Academy
 
 **Max Tuchman,** CEO + Co-Founder of Caribu
 
-**Cristina Urdaneta** 
+**Cristina Urdaneta**
 
-**Carlos Vazquez** 
+**Carlos Vazquez**
 
 **David Villegas,** Kuyayky Foundation
 
@@ -562,7 +562,7 @@ The following members of the #MiamiTech community have committed to upholding th
 
 **Jonathan Fichman,** Kabot Advisors
 
-**Andre Miranda** - Tech Innovations 
+**Andre Miranda** - Tech Innovations
 
 **Karin Klein**, Bloomberg Beta
 
@@ -620,7 +620,7 @@ The following members of the #MiamiTech community have committed to upholding th
 
 **Hans O. Rueckschnat**
 
-**Yuda Saydun**, CyVent 
+**Yuda Saydun**, CyVent
 
 **Branden Bedoya**, Google
 
@@ -628,7 +628,7 @@ The following members of the #MiamiTech community have committed to upholding th
 
 **maria c. alonso**
 
-**James Irvine**, 305 Works 
+**James Irvine**, 305 Works
 
 **Lulu Carbonell**, Liquid Carrot Founder; Cell-Ed VP; LifePath CTO
 
@@ -644,7 +644,7 @@ The following members of the #MiamiTech community have committed to upholding th
 
 **Sebastian Silva**
 
-**Chelsie Cooper**, Approvely 
+**Chelsie Cooper**, Approvely
 
 **John Wensveen,** Ph.D., Chief Innovation Officer, Nova Southeastern University
 
@@ -690,11 +690,11 @@ The following members of the #MiamiTech community have committed to upholding th
 
 **Raul G Faife**, UPEFIU
 
-**Arathi Ramappa** 
+**Arathi Ramappa**
 
 **Laurie Weisberg** Creatd COO
 
-**Scott Rosenbluth**, CRAZE 
+**Scott Rosenbluth**, CRAZE
 
 **Patrick Corbett**   Founder, Mind Stimuli Labs, Co
 
@@ -714,11 +714,11 @@ The following members of the #MiamiTech community have committed to upholding th
 
 **Lila de la Chesnaye**, ex-Chewy/Instacart/Nearpod
 
-**Rebecca Rovirosa-Capote**, L'epic Miami 
+**Rebecca Rovirosa-Capote**, L'epic Miami
 
 **J.J. Sass**
 
-**Aldo Mora**, Sprezet 
+**Aldo Mora**, Sprezet
 
 **Ernesto Jerónimo Kemmerer**, ek Technology Consulting
 
@@ -758,7 +758,7 @@ The following members of the #MiamiTech community have committed to upholding th
 
 **Nicolette Ghimire**
 
-**Rogelio Caceres**, RCG Global 
+**Rogelio Caceres**, RCG Global
 
 **Jayda Washington-Boothe**
 
@@ -776,7 +776,7 @@ The following members of the #MiamiTech community have committed to upholding th
 
 **Jonathan Cox**, CEO and Founder at Grownextdoor
 
-**Paola Correa** - TedXMiami 
+**Paola Correa** - TedXMiami
 
 **Willy Orozco** SoFlo RM for Microsoft TEALS
 
@@ -786,7 +786,7 @@ The following members of the #MiamiTech community have committed to upholding th
 
 **Scott Weinreb**
 
-**Erez Hevroni** 
+**Erez Hevroni**
 
 **Marlon Hill**
 
@@ -802,7 +802,7 @@ The following members of the #MiamiTech community have committed to upholding th
 
 **Andrew Sturner**, Founder Orange Island Ventures, co-founder of Boatsetter, Miami Angels,& Entourage Effect Capital
 
-**Juan José Portela Zardetto** - CEO  PHLOX Networks a Division of SILIGOM USA LLC 
+**Juan José Portela Zardetto** - CEO  PHLOX Networks a Division of SILIGOM USA LLC
 
 **Susanna Kohly Jacobson**, Google Cuba
 
@@ -824,7 +824,7 @@ The following members of the #MiamiTech community have committed to upholding th
 
 **Nicolette Ghimire**
 
-**Rogelio Caceres**, RCG Global 
+**Rogelio Caceres**, RCG Global
 
 **Jayda Washington-Boothe**
 
@@ -842,7 +842,7 @@ The following members of the #MiamiTech community have committed to upholding th
 
 **Jonathan Cox**, CEO and Founder at Grownextdoor
 
-**Paola Correa** - TedXMiami 
+**Paola Correa** - TedXMiami
 
 **Andres Saravia** @ Meridian PDP - Data Privacy
 
@@ -854,7 +854,7 @@ The following members of the #MiamiTech community have committed to upholding th
 
 **Scott Weinreb**
 
-**Erez Hevroni** 
+**Erez Hevroni**
 
 **Marlon Hill**
 
@@ -870,7 +870,7 @@ The following members of the #MiamiTech community have committed to upholding th
 
 **Andrew Sturner**, Founder Orange Island Ventures, co-founder of Boatsetter, Miami Angels,& Entourage Effect Capital  ,
 
-**Juan José Portela Zardetto** - CEO  PHLOX Networks a Division of SILIGOM USA LLC 
+**Juan José Portela Zardetto** - CEO  PHLOX Networks a Division of SILIGOM USA LLC
 
 **Susanna Kohly Jacobson**, Google Cuba
 
@@ -904,7 +904,7 @@ The following members of the #MiamiTech community have committed to upholding th
 
 **Ana Ordoñez**
 
-**Brandon Turp** 
+**Brandon Turp**
 
 **Fausto Carassai** @ BigDevsLLC
 
@@ -912,7 +912,7 @@ The following members of the #MiamiTech community have committed to upholding th
 
 **Matheus Pessanha**, Jobis
 
-**Stephanie Davis**, ex-Googler 
+**Stephanie Davis**, ex-Googler
 
 **Soledad Picon**
 
@@ -920,7 +920,7 @@ The following members of the #MiamiTech community have committed to upholding th
 
 **Jade Reichling**, EisnerAmper
 
-**Patricia Beitler**, Velocitas Marketing + PR 
+**Patricia Beitler**, Velocitas Marketing + PR
 
 **Nikisha Williams**, Opa-locka CDC
 
@@ -934,15 +934,33 @@ The following members of the #MiamiTech community have committed to upholding th
 
 **Colin Campbell**
 
+**Cesar Quintero - The Profit Recipe**
+
+**David Lekach**
+
 **Elena Volnova, PetStore.Direct**
 
 **Lil Roberts**
 
-**Adele Harrington, UNCS Evolution** 
+**Alex Arguelles**
+
+**David Tuaty - Poggesi USA**
+
+**Adele Harrington, UNCS Evolution**
+
+**Alex Stancioff**
+
+**CEO Goran Dragoslavic First American Telecom**
 
 **David Alexandre Brun, Seeded**
 
+**Jordan Guthrie**
+
 **Claudia Akel - Social Impact Movement**
+
+**Paola Iuspa-Abbott**
+
+**Renee Lopez-Cantera**
 
 **Jordan De Leon, Urban Impact Lab**
 
@@ -954,7 +972,23 @@ The following members of the #MiamiTech community have committed to upholding th
 
 **Michelle Bakels, Boca Code**
 
+**Michael Mannino**
+
+**Jorge Mezzadra**
+
+**Lacey Elmange**
+
+**Steven Hadjilogiou**
+
+**Brian Schriner**
+
+**Nancy Anderson Bolton, Globant**
+
 **Nev Terzieva**
+
+**Sandy Skelaney, TEDxMiami**
+
+**Carrie Monescalchi**
 
 **Cynthia M. Fleischmann**
 
@@ -962,19 +996,41 @@ The following members of the #MiamiTech community have committed to upholding th
 
 **Glenda Pacanins, The Nineteen & Nine Company**
 
+**Margaret Brisbane**
+
+**Tyler Kelley, Innovation City**
+
 **Hesler Roque**
+
+**John Elizabeth Aleman**
 
 **YULIA STROKOVA, IMPACT.EDITION**
 
+**Mike Teichberg, InventivHR**
+
+**Robert Katz, World Innovation Network**
+
+**Damian Voltes, CEO @ Fiera Studio & Patagonia Ventures**
+
 **Keratin Recker, Authentifi and NTENT**
 
-**Carlos F Ramirez - AddData co-creator and creative data analysis**
+**Ted Miller**
+
+**Carlos Fdo.Ramirez - AddData co-creator and creative data analysis**
 
 **abraham starosta**
 
+**Carolina Chiu**
+
 **Jake Kozloski**
 
+**John Paul Milciunas, BaseLayer Ventures**
+
 **Rodolfo Saccoman**
+
+**Aaron Mandell**
+
+**Bianca Bustamante**
 
 **Christine Cafiso Pulver, Founder at theheard**
 
@@ -982,65 +1038,125 @@ The following members of the #MiamiTech community have committed to upholding th
 
 **Rafael Souza da Silva**
 
+**Aaron Chavez**
+
+**Paige Cortese**
+
 **Gabriela Brown, Every Woman**
 
 **Brian B. Turner**
 
 **Channi Greenwall, SecurityScorecard**
 
+**Ryan Andersen**
+
+**Hiram Vazquez, Operating Partner at Seven Seven Six**
+
 **Patrick Wakeham - Apurata CEO & co-founder**
 
 **Gabriela Mara Schmitman, Bondy Group**
 
-**Lakeshia Grays , BSEXpress Delivery** 
+**Lakeshia Grays , BSEXpress Delivery**
 
-**Onega Ulanova , Assist.**
+**Jennifer Chelenyak, EY**
+
+**Onega Ulanova LA NDPT**
+
+**Onega Ulanova - Assist.**
+
+**Jocelyn Cortez Young - Minerva Capital**
 
 **Chris Johnston**
 
 **Kelly Chess**
 
+**Elizabeth Irizarry**
+
+**Angela Don, Product Designer**
+
+**Douglas Hardin EatUp Inc**
+
 **Nicolas Arroyo**
 
 **Diego Fernández - Contextus - Social Commerce Platform**
 
+**Pablo Gutierrez Oyhanarte**
+
+**Jody Jones**
+
 **Steven Haase**
+
+**Rachel Raynaud**
 
 **Laura James - CoFounder - JoinLevel.com**
 
 **Jocelyn Rodriguez, Cofounder - Clearfind**
 
+**Piotr Jaworski, Head of New Tech, Jit Team**
+
 **Alfred Gonzalez-Cuzan, Arm Innovator**
 
 **Pablo Segarra, Esq., CEO of X1492 Media**
 
+**Alexander Lazar**
+
 **Giancarlo Zappala, Co-Founder of Big Motion Studio**
+
+**Gabriela Rolon**
+
+**Claudia Duran**
 
 **Charles Irizarry**
 
+**Sharon Griemsman - Year Up, Inc.**
+
 **Doron Sherman, Tech Entrepreneur & Investor, Cloudinary - Kemtai**
 
+**Thalia Salmon**
+
 **Alvaro Fernandez, EFyA Advisors**
+
+**Chris Daniels, The Shrimp Society**
+
+**Vanessa Lamarque**
 
 **Jorge Lopez - Founder of Shipealoo!**
 
 **Paola Gonzalez - @kardioyoga**
 
+**Mitchell Gonzalez**
+
 **Alex Voronovich, CashQ Money Transfer**
+
+**Sandy Skelaney, TEDxMiami**
 
 **Alejandro Gutierrez @AdMobilize**
 
 **Daniela Alpert**
 
+**Kevin Choi**
+
+**Prem Lee Barbosa**
+
 **Maria Sabando, Strategic Advisor**
 
 **Andy Amendola, Tech Advisor and Digital Strategy Expert**
 
+**Cecilia Garcia**
+
+**Oscar Paez, Country Head, ENCONCRETO**
+
 **Miriam Cloquell, Minds of Tomorrow**
 
-**Scarlett Arana , UnifyIT innovation developer** 
+**Ericka Howard, Urbanly**
+
+**Jacek Grebski // 7 Train Ventures**
+
+**Scarlett Arana , UnifyIT innovation developer**
 
 **Catalina Valenzuela - Innovus Consulting**
+
+**Francesca de Quesada Covey**
 
 **Seba Herrera Cano**
 
@@ -1048,4 +1164,6 @@ The following members of the #MiamiTech community have committed to upholding th
 
 **Gabriela Sabate**
 
-**Duygu Aktan,  Ango AI** 
+**Duygu Aktan,  Ango AI**
+
+**DIEGO MEY**
