@@ -933,3 +933,121 @@ The following members of the #MiamiTech community have committed to upholding th
 **Brenda Freeman** Tech advisor and business leader
 
 **Danny Kattan**
+
+**Colin Campbell**
+
+**Elena Volnova, PetStore.Direct**
+
+**Lil Roberts**
+
+**Adele Harrington, UNCS Evolution** 
+
+**David Alexandre Brun, Seeded**
+
+**Claudia Akel - Social Impact Movement**
+
+**Jordan De Leon, Urban Impact Lab**
+
+**Ivo Machado, Wisecut**
+
+**daniel silber**
+
+**Ian Grant II, WaySlay**
+
+**Michelle Bakels, Boca Code**
+
+**Nev Terzieva**
+
+**Cynthia M. Fleischmann**
+
+**Gofredy Salazar - Co-founder Chelatto Brewing Co**
+
+**Glenda Pacanins, The Nineteen & Nine Company**
+
+**Hesler Roque**
+
+**YULIA STROKOVA, IMPACT.EDITION**
+
+**Keratin Recker, Authentifi and NTENT**
+
+**Carlos F Ramirez - AddData co-creator and creative data analysis**
+
+**abraham starosta**
+
+**Jake Kozloski**
+
+**Rodolfo Saccoman**
+
+**Christine Cafiso Pulver, Founder at theheard**
+
+**Suraj Hemnani - Co-founder @ Weather Creative**
+
+**Rafael Souza da Silva**
+
+**Gabriela Brown, Every Woman**
+
+**Brian B. Turner**
+
+**Channi Greenwall, SecurityScorecard**
+
+**Patrick Wakeham - Apurata CEO & co-founder**
+
+**Gabriela Mara Schmitman, Bondy Group**
+
+**Lakeshia Grays , BSEXpress Delivery** 
+
+**Onega Ulanova | Assist.**
+
+**Chris Johnston**
+
+**Kelly Chess**
+
+**Nicolas Arroyo**
+
+**Diego Fernández - Contextus - Social Commerce Platform**
+
+**Steven Haase**
+
+**Laura James - CoFounder - JoinLevel.com**
+
+**Jocelyn Rodriguez, Cofounder - Clearfind**
+
+**Alfred Gonzalez-Cuzan, Arm Innovator**
+
+**Pablo Segarra, Esq., CEO of X1492 Media**
+
+**Giancarlo Zappala, Co-Founder of Big Motion Studio**
+
+**Charles Irizarry**
+
+**Doron Sherman, Tech Entrepreneur & Investor, Cloudinary | Kemtai**
+
+**Alvaro Fernandez, EFyA Advisors**
+
+**Jorge Lopez - Founder of Shipealoo!**
+
+**Paola Gonzalez - @kardioyoga**
+
+**Alex Voronovich, CashQ Money Transfer**
+
+**Alejandro Gutierrez @AdMobilize**
+
+**Daniela Alpert**
+
+**Maria Sabando, Strategic Advisor**
+
+**Andy Amendola, Tech Advisor and Digital Strategy Expert**
+
+**Miriam Cloquell, Minds of Tomorrow**
+
+**Scarlett Arana , UnifyIT innovation developer** 
+
+**Catalina Valenzuela - Innovus Consulting**
+
+**Seba Herrera Cano**
+
+**Jaime BaeA**
+
+**Gabriela Sabate**
+
+**Duygu Aktan,  Ango AI** 
