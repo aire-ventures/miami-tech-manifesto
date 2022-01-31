@@ -778,8 +778,6 @@ The following members of the #MiamiTech community have committed to upholding th
 
 **Paola Correa** - TedXMiami 
 
-**Andres Saravia** - Meridian PDP - Data Privacy
-
 **Willy Orozco** SoFlo RM for Microsoft TEALS
 
 **Yagiz Sozmen**, CORE
@@ -846,7 +844,7 @@ The following members of the #MiamiTech community have committed to upholding th
 
 **Paola Correa** - TedXMiami 
 
-**Andres Saravia** @ Meridian PDP | Data Privacy
+**Andres Saravia** @ Meridian PDP - Data Privacy
 
 **Willy Orozco** SoFlo RM for Microsoft TEALS
 
@@ -996,7 +994,7 @@ The following members of the #MiamiTech community have committed to upholding th
 
 **Lakeshia Grays , BSEXpress Delivery** 
 
-**Onega Ulanova | Assist.**
+**Onega Ulanova , Assist.**
 
 **Chris Johnston**
 
@@ -1020,7 +1018,7 @@ The following members of the #MiamiTech community have committed to upholding th
 
 **Charles Irizarry**
 
-**Doron Sherman, Tech Entrepreneur & Investor, Cloudinary | Kemtai**
+**Doron Sherman, Tech Entrepreneur & Investor, Cloudinary - Kemtai**
 
 **Alvaro Fernandez, EFyA Advisors**
 
