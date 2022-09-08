@@ -2,7 +2,7 @@
 title: 'We are #MiamiTech'
 layout: default
 image: /assets/images/socialimg.png
-counter: 522
+counter: 525
 ---
 Miami has always been a haven for innovators, for builders, for disrupters and for those wielding the power of technology as a tool of change.    
 
@@ -1167,3 +1167,9 @@ The following members of the #MiamiTech community have committed to upholding th
 **Duygu Aktan,  Ango AI**
 
 **DIEGO MEY**
+
+**Ivania Oberti, Esq founder of IOBERTI LEGAL**
+
+**Dr. B. Sarah Haynes, Ph.D,  Founder, CEO, CoachEra|Pishevar-Haynes Foundation, Pishevar Family Office, Edison Startup Executive Coach|Investor|Humanitarian**
+
+**Darrin Scorpio Campbell**
