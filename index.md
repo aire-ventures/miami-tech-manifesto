@@ -934,11 +934,11 @@ The following members of the #MiamiTech community have committed to upholding th
 
 **Colin Campbell**
 
-**Cesar Quintero - The Profit Recipe**
+**Cesar Quintero** - The Profit Recipe
 
 **David Lekach**
 
-**Elena Volnova, PetStore.Direct**
+**Elena Volnova**, PetStore.Direct
 
 **Lil Roberts**
 
