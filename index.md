@@ -1172,4 +1172,4 @@ The following members of the #MiamiTech community have committed to upholding th
 
 **Dr. B. Sarah Haynes, Ph.D,  Founder, CEO, CoachEra|Pishevar-Haynes Foundation, Pishevar Family Office, Edison Startup Executive Coach|Investor|Humanitarian**
 
-**Darrin Scorpio Campbell**
+**Darrin Scorpio Campbell** 
