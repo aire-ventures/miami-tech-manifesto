@@ -998,7 +998,7 @@ The following members of the #MiamiTech community have committed to upholding th
 
 **Margaret Brisbane**
 
-**Tyler Kelley, Innovation City**
+**Tyler Kelley**, Innovation City
 
 **Hesler Roque**
 
