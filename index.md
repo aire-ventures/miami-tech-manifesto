@@ -1170,6 +1170,6 @@ The following members of the #MiamiTech community have committed to upholding th
 
 **Ivania Oberti, Esq** founder of IOBERTI LEGAL
 
-**Dr. B. Sarah Haynes**, Ph.D,  Founder, CEO, CoachEra</li>Pishevar-Haynes Foundation, Pishevar Family Office, Edison Startup Executive Coach</li>Investor</li>Humanitarian
+**Dr. B. Sarah Haynes**, Ph.D,  Founder, CEO, CoachEra/Pishevar-Haynes Foundation, Pishevar Family Office, Edison Startup Executive Coach/Investor/Humanitarian
 
 **Darrin Scorpio Campbell** 
