@@ -1154,7 +1154,7 @@ The following members of the #MiamiTech community have committed to upholding th
 
 **Scarlett Arana , UnifyIT innovation developer**
 
-**Catalina Valenzuela - Innovus Consulting**
+**Catalina Valenzuela** - Innovus Consulting
 
 **Francesca de Quesada Covey**
 
@@ -1164,7 +1164,7 @@ The following members of the #MiamiTech community have committed to upholding th
 
 **Gabriela Sabate**
 
-**Duygu Aktan,  Ango AI**
+**Duygu Aktan**,  Ango AI
 
 **DIEGO MEY**
 
