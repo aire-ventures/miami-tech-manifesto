@@ -970,7 +970,7 @@ The following members of the #MiamiTech community have committed to upholding th
 
 **Ian Grant II, WaySlay**
 
-**Michelle Bakels, Boca Code**
+**Michelle Bakels**, Boca Code
 
 **Michael Mannino**
 
