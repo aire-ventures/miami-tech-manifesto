@@ -2,7 +2,7 @@
 title: 'We are #MiamiTech'
 layout: default
 image: /assets/images/socialimg.png
-counter: 526
+counter: 524
 ---
 Miami has always been a haven for innovators, for builders, for disrupters and for those wielding the power of technology as a tool of change.    
 
@@ -56,73 +56,245 @@ The following members of the #MiamiTech community have committed to upholding th
 
 **Michelle Abbs,** Managing Director Mana Tech
 
+**Earle Acosta**
+
 **Chris Adamo,** CBO/Investor at WhereBy.Us/Letterhead
 
-**Maritza T. Adonis,** MTA Visions Global CSR & Gov’t Relations
+**Claudia Akel** - Social Impact Movement
 
-**Liz Rebecca Alarcón,** Founder & Executive Director, Pulso
+**Duygu Aktan**,  Ango AI
 
 **Jonatan Alava**
 
 **Kimberly Aldunate**
 
+**David Alexandre Brun**, Seeded
+
+**Daniel Almeida**, Stayfilm
+
+**Douglas Almeida**, Stayfilm
+
+**Aileen Alon**
+
+**Daniela Alpert**
+
 **JC Alvarez,** Clarify and Built In Miami
+
+**Kevin Amézaga**
+
+**Andy Amendola**, Tech Advisor and Digital Strategy Expert
+
+**Ryan Andersen**
+
+**Nancy Anderson Bolton**, Globant
+
+**Scarlett Arana**, UnifyIT innovation developer
+
+**Alex Arguelles**
 
 **Andres Arias** / Clarity
 
+**Nicolas Arroyo**
+
+**Nishita Aswani**
+
+**Amy Austin Renshaw**
+
+**CHANAN AVERBUCH**
+
+**Beatriz Ayala**, Co-founder & CEO Musicasa
+
+**David Azar**
+
+**Brian B. Turner**
+
+**Jaime BaeA**
+
+**Michelle Bakels**, Boca Code
+
+**Akos Balogh**, Moscase Inc
+
 **Prem Balwani** - Founder & CEO iGrabit
+
+**David Barkoe,** Carve Communications
 
 **Matthew Beatty,** The Carrie Meek Foundation
 
+**Maria Beckles**
+
+**Branden Bedoya**, Google
+
+**Matias Beeck**
+
+**Patricia Beitler**, Velocitas Marketing + PR
+
 **Demian Bellumio**
+
+**Champ Bennett**
+
+**Amber Berger**
+
+**Richard Bermudez**
 
 **Kiel Berry**
 
 **Marie Berry,** Founder and Angel
 
+**Cody A Bess**
+
 **Mario Betancourt**
 
 **Johnny Betancourt** - Co-Founder @ Clutch Prep
 
+**Romi Bhatia**
+
 **Gean Biffulco**
 
-**Laura Bries Biseo**
+**David Bisset**
+
+**Sam Blatt,** Miami-Dade Beacon Council
+
+**Isa Bolivar,** Uber
+
+**Andrew Bowyer**
 
 **Brian Breslin** - Refresh Miami + The Launch Pad
 
+**Laura Bries Biseo**
+
+**Margaret Brisbane**
+
+**Daniel Brito** - Outcomes Manager @ Ironhack Miami
+
 **Stephanie Brito,** Software Engineer at Google + Master’s Student at Stanford
+
+**Gabriela Brown**, Every Woman
 
 **Leigh-Ann Buchanan,** President & Executive Director, aīre ventures
 
 **Maria Budet,** Beacon Council
 
+**Bianca Bustamante**
+
+**maria c. alonso**
+
+**Marcelo C. Freire,** Sr. Director Global Exp. & Innovation
+
+**Adrienne C. McWilliams,** Co-Founder & CEO of BRIDGE Networks
+
+**Juan C. Teran**, CONSULADVISORS LLC
+
+**Nikki Cabus**, Palm Beach Tech Association
+
+**Rogelio Caceres**, RCG Global
+
+**Kevin Cadette**, Black Angels Miami
+
+**Christine Cafiso Pulver**, Founder at theheard
+
+**Colin Campbell**
+
+**Jairo Cano,** Caiman Immunizer Antimalware
+
 **Alex Cantwell,** Founder/Inventor at FitFones, Inc.
+
+**Fausto Carassai** @ BigDevsLLC
+
+**Randy Carballo,** Blanca CRE
+
+**Lulu Carbonell**, Liquid Carrot Founder; Cell-Ed VP; LifePath CTO
+
+**Kayla Cartwright**
 
 **Seth Cassel**
 
 **Luc Castera** - Founder, Octopi
 
+**Nate Causey**
+
 **Floris Chabert**
+
+**Aaron Chavez**
+
+**Jennifer Chelenyak**, EY
+
+**Kelly Chess**
+
+**Joe Chin**
+
+**Carolina Chiu**
+
+**Kevin Choi**
+
+**Kevin Choi**, Resources.co
+
+**MARIA CLARA MEJIA**
 
 **Silvia Clarke,** eMerge Americas
 
+**Miriam Cloquell**, Minds of Tomorrow
+
+**Stan COIGNARD,** French Tech Miami - Community Lead
+
+**Chelsie Cooper**, Approvely
+
+**Patrick Corbett**   Founder, Mind Stimuli Labs, Co
+
 **Tina Cornely,** Founder of Bridging Humanity
 
+**Michael Coronado**
+
+**Leo Correa**
+
+**Paola Correa** - TedXMiami
+
+**Paige Cortese**
+
+**Jocelyn Cortez Young** - Minerva Capital
+
 **Gabriela Costales**
+
+**Jonathan Cox**, CEO and Founder at Grownextdoor
+
+**Camilo Crespo**
 
 **Mark Crofton**
 
 **Mario Cruz,** Watsco Ventures / Miami Maker Faire
 
-**Juan Pablo D’Alessandro,** Endeavor
+**Edgard D. Duque,** TheVentureCity
+
+**Charles D. Villard**
+
+**Irina D Woelfle**
 
 **Nancy Dahlberg,** Refresh Miami
 
+**Sean Daly,** Founder, Expetitle
+
 **Rod Danan,** Founder & CEO at Prentus
+
+**Marcelo Daniel Sanchez**, oneshotapp.com
+
+**Chris Daniels**, The Shrimp Society
 
 **Rebecca Danta,** Miami Angels
 
+**Stephanie Davis**, ex-Googler
+
+**Lila de la Chesnaye**, ex-Chewy/Instacart/Nearpod
+
+**Jordan De Leon**, Urban Impact Lab
+
+**Francesca de Quesada Covey**
+
+**Delia DeBuc**, Founder and CEO, iScreen 2 Prevent , LLC
+
+**Lesley DeCanio**
+
 **Federico Decia,** Co-Founder Nub8
+
+**Elizabeth Decker**, President, SIM South Florida
 
 **Antonio Delgado,** Dean of Engineering and Technology at Miami Dade College
 
@@ -130,109 +302,423 @@ The following members of the #MiamiTech community have committed to upholding th
 
 **Arjun Desai,** Insightec
 
+**Ashok Deshmukh**
+
 **Jason Devlin,** Watsco Ventures
 
 **Eileen Devline-Ward**
 
-**Brent R. Dixon**
+**Fabian Divito**
+
+**Tamas Doffek**
+
+**Maria Dominguez**, Site Director of CIC Miami
+
+**Angela Don**, Product Designer
+
+**Gladys Downs**
+
+**Yendi,** Doxie Digital Media
+
+**Maria Dreyfus-Ulvert**
+
+**Claudia Duran**
 
 **Vanessa Duran,** Principal at DCC Accounting
 
+**Kelsey E. Rumburg,** Author of Trash to Treasure
+
+**Danilo E Salazar**
+
+**Roger E. Teran**
+
 **Joshua Eisenberg,** PhD, Lead Scientist NLU @ Artie inc.
+
+**John Elizabeth Aleman**
+
+**Serge Elkiner**
+
+**Lacey Elmange**
+
+**Kaitlyn Elphinstone,** Cayman Enterprise City
+
+**EMILIO ESCARTIN**
+
+**Fabio Escobar**
+
+**Carlos Fdo.Ramirez** - AddData co-creator and creative data analysis
+
+**Jose Fermin,** CEO @ What a TV
+
+**Alvaro Fernandez**, EFyA Advisors
 
 **Cesar Fernandez** - Converge Government Affairs, ex-Uber
 
+**Diego Fernández** - Contextus - Social Commerce Platform
+
 **Wifredo “Wifi” Fernández** - Scout, Lightspeed Venture Partners
 
-**Maurice R. Ferre,** Insightec Chairman & CEO
+**Jonathan Fichman,** Kabot Advisors
+
+**Ken Finneran,** VP Global HR
 
 **Michael A. Finney,** President & CEO, Miami-Dade Beacon Council
+
+**Kamalah Fletche**r, A Little Help Never Hurt
+
+**Kamalah Fletcher**, A Little Help Never Hurt
+
+**Keena Fletcher**, Groups of Good People
 
 **Cheriene Floyd**
 
 **Ibis Fonte,** Software Factory
 
+**Antoine Forest,** Co Founder - Stargazer.co - Followpass.app
+
 **Krystina François,** Executive Director, Office of New Americans of Miami-Dade
+
+**Brenda Freeman** Tech advisor and business leader
 
 **Michael Friedberg,** Founder/President of SEO Nerd
 
+**Randy Fuentes**
+
+**Raul G Faife**, UPEFIU
+
+**José G. Hernández** — HRNANDEZ
+
 **Maurice Gabriel,** Your Strategic Partner
 
-**Carlos Raul Garcia**
+**Laura Gabrysiak**, R-Ladies Miami
+
+**Laurent GALLISSOT,** Consul General of France in Miami
+
+**Cecilia Garcia**
+
+**Eddie Garcia**
+
+**Patricia Garcia**, Founder @ college thrifts
+
+**Beto Garza**
+
+**Enrique Garza**
+
+**Erick Gavin,** Center for Black Innovation
+
+**Will Gendron**
+
+**Nicolette Ghimire**
+
+**Patricia Gil**
 
 **Jane Gilbert,** High Impact Integrated Solutions
 
-**Ana Paula González,** 500 Startups
+**ANTHONY GINTER**, WATERDIAM GROUP
+
+**Howard Gitten**
+
+**Leon Gomez**
+
+**Sebastian Gomez Puerto**
 
 **Laura González-Estéfani**
+
+**Mitchell Gonzalez**
+
+**Paola Gonzalez** - @kardioyoga
+
+**Xavier Gonzalez,** Cyxtera
+
+**Alfred Gonzalez-Cuzan**, Arm Innovator
+
+**CEO Goran Dragoslavic** First American Telecom
 
 **Claudia Gorham**
 
 **Olga Granda**
 
+**Gustavo Grande,** The Idea Center at MDC
+
+**Ian Grant II**, WaySlay
+
+**Lakeshia Grays**, BSEXpress Delivery
+
+**Jacek Grebski** // 7 Train Ventures
+
+**Annette Green Tellez,** Code/Art
+
+**Channi Greenwall**, SecurityScorecard
+
+**Sharon Griemsman** - Year Up, Inc.
+
 **Elliot Grossbard** - Head of Growth at ElevateU (HigherEd EdTech)
 
-**Flavio Nicolay Guimaraes**
+**Ailyn Guerra**
 
 **Patricio Guitart**
 
+**Jacob Gurrola**, Avisual LLC
+
+**Jordan Guthrie**
+
+**Alejandro Gutierrez** @AdMobilize
+
+**Pablo Gutierrez Oyhanarte**
+
+**Steven Haase**
+
+**Lynn Hackney**
+
+**Steven Hadjilogiou**
+
 **Matt Haggman,** Beacon Council
+
+**John Hall**, Brickell Opportunity Partners
 
 **Michael Hall,** Founder, Digital Grass
 
-**José G. Hernández** — HRNANDEZ
+**Douglas Hardin** EatUp Inc
+
+**Adele Harrington**, UNCS Evolution
+
+**Timothy Hasse**, Founder of General Provision, Founder of T R I M
+
+**Dr. B. Sarah Haynes**, Ph.D,  Founder, CEO, CoachEra/Pishevar-Haynes Foundation, Pishevar Family Office, Edison Startup Executive Coach/Investor/Humanitarian
+
+**Gavin Heale**
+
+**Suraj Hemnani** - Co-founder @ Weather Creative
+
+**Seba Herrera Cano**
+
+**William Herrera,** IT System Engineer
+
+**Erez Hevroni**
+
+**Marlon Hill**
+
+**Bill Hinostroza**, EasyClout
+
+**Greg Horowitz,** Consulate General of Israel in Miami
+
+**Ericka Howard**, Urbanly
+
+**Jared Husch**
+
+**Laura I Maydón**
+
+**Fabio Iannelli**, ADVANSIS
+
+**Roberto Interiano**
+
+**Charles Irizarry**
+
+**Elizabeth Irizarry**
+
+**James Irvine**, 305 Works
+
+**Paola Iuspa-Abbott**
+
+**Emily J Gleason**
+
+**Samuel J Morris**, Gigasheen LLC
+
+**Michael J. Pichardo**
+
+**Arnoldo J. Reyes**
+
+**J.J. Sass**
+
+**Miles J. Varghese**
+
+**Laura James** - CoFounder - JoinLevel.com
+
+**Mayor Jane Bolin**
+
+**Piotr Jaworski**, Head of New Tech, Jit Team
+
+**Ernesto Jerónimo Kemmerer**, ek Technology Consulting
+
+**David Jessup Jr.**
 
 **Rosa Jiménez Cano**
 
+**Ja'dan Johnson,** Center for Black Innovation
+
 **Christine Johnson,** VP Innovation, Miami Dade Beacon Council
 
-**Ja'dan Johnson,** Center for Black Innovation
+**Chris Johnston**
+
+**Jody Jones**
+
+**Juan José Portela Zardetto** - CEO  PHLOX Networks a Division of SILIGOM USA LLC
+
+**Johnny JR Rodrigues,** emb3Ded
 
 **Pablo Junco**
 
+**Danny Kattan**
+
+**Robert Katz**, World Innovation Network
+
+**Stacey Kawakami**
+
+**Tyler Kelley**, Innovation City
+
 **Tamour Khan**
+
+**Annette King**, Founder & CEO at Muuchit
+
+**Haley Kirk,**
+
+**Karin Klein**, Bloomberg Beta
+
+**Daniel Kleinman**, Seaworthy Collective
+
+**Amy Knox,**
+
+**Tarkan Kocoglu**
+
+**Susanna Kohly Jacobson**, Google Cuba
 
 **James Kohnstamm,** EVP, Miami-Dade Beacon Council
 
 **Herwig Konings**
 
+**Andrej Kostresevic**, Partner, DART Ventures
+
+**Jake Kozloski**
+
 **Melissa Krinzman,** Krillion Ventures
+
+**Janet Kyle Altman**
+
+**Mario L Castellanos**
 
 **Angel Lacret.** Founder of Cobuild Lab
 
+**Vanessa Lamarque**
+
+**Richard Lamondin**
+
+**Augusto Landestoy**
+
 **Alyssa Landry**
+
+**Nicolas Lares**, Serial Entreprenuer
 
 **Travis Laurendine**
 
+**Alexander Lazar**
+
 **Evan Leaphart** - Founder, Kiddie Kredit
+
+**Temante Leary**
+
+**Bonnie Lee,**
+
+**Prem Lee Barbosa**
+
+**Dirk Leifer**, Level 5 Partners
+
+**David Lekach**
+
+**Reneida Leon**
 
 **Sergio Leon,** Co-Founder 1Nation Digital
 
+**AMANDA LEVIEN**
+
+**Traci Levine**
+
+**John Levinson**,  Westway Capital
+
+**Kevin Levy**, Gray Robinson, P.A.
+
+**Mike Lingle** // Rocket Pro Forma
+
+**Rachel Lipoff**
+
+**Antonio Llanos**, CTO LaCalle Group
+
+**Diana Londono,** International Economic Development
+
+**Jorge Lopez** - Founder of Shipealoo!
+
+**Valerie Lopez,** CEO & Co-founder at Shoot My Travel
+
+**Renee Lopez-Cantera**
+
+**Jorge Lozano**, Ploosi
+
+**Sarah Lucas**
+
+**Nelly M. Farra,** Co-Founder + COO of Perchance
+
+**Cynthia M. Fleischmann**
+
+**Joan M. Godoy,** Radical Partners
+
+**Nicolas M Iglesias**
+
+**Ivo Machado**, Wisecut
+
+**Kyle Maharlika,** Associate @ VCM
+
+**Alejandro Mainetto**
+
+**Mellanie Malik**
+
 **Moishe mana** .mana common
+
+**Aaron Mandell**
+
+**Michael Mannino**
+
+**Gabriela Mara Schmitman**, Bondy Group
 
 **Nacho Marcotegui** - NEORIS USA, INC
 
+**Julia Marina**
+
+**Matti Marshak LAB Ventures,** Studio CEO
+
 **Natalia Martinez-Kalinina**
 
-**Laura I Maydón**
+**Brenda Matos,** Product Designer
 
-**Michael R. McCord** - AOA Ventures (Healthcare / RE Focus)
+**Hernan Mayol**, Apprentice Worldwide
 
 **Kerry McLaney,** 305 Creative & Art Vault
 
+**Henry Mederos**, Software Engineer
+
 **Melissa Medina,** eMerge Americas
 
-**Kevin V. Michael,** Co-Founder & CEO, Invizio
+**Alvaro Melendez,** CRANT
+
+**DIEGO MEY**
+
+**Jorge Mezzadra**
 
 **Johanna Mikkola,** CEO & Co-Founder, Wyncode Academy
 
 **Juha Mikkola,** Co-Founder of Wyncode Academy
 
+**Ted Miller**
+
+**Andre Miranda** - Tech Innovations
+
 **Brandon Mitchell,** Venture for America
 
 **Lynn Miteva**
 
+**Carrie Monescalchi**
+
 **Rebekah Monson,** WhereBy.Us
+
+**Aldo Mora**, Sprezet
 
 **Katrina Morris**
 
@@ -240,23 +726,69 @@ The following members of the #MiamiTech community have committed to upholding th
 
 **Marcia Narine Weldon,** Illuminating Wisdom, LLC
 
+**Rebecca Negro Rocha,** Endeavor
+
+**Flavio Nicolay Guimaraes**
+
+**Sarah Nohe**
+
 **Lisa Nuessle,** General Manager, Ironhack
+
+**Hans O. Rueckschnat**
+
+**Ivania Oberti, Esq** founder of IOBERTI LEGAL
+
+**Martin Ogawa**
+
+**JJ Ogrey**, Founder
 
 **Francisco Opazo,** Entrepreneur
 
+**Ana Ordoñez**
+
+**Willy Orozco** SoFlo RM for Microsoft TEALS
+
 **Michael Ortali**
 
-**Anabel Perez,** NovoPayment
-
-**Alex Perez**
+**Mark Osterman**
 
 **Cari Pérez,** General Assembly
 
+**Juan Pablo D’Alessandro,** Endeavor
+
+**Juan Pablo Degiovanni,** Crystalzoom
+
+**Glenda Pacanins**, The Nineteen & Nine Company
+
+**Oscar Paez, Country Head**, ENCONCRETO
+
+**Albert Paredes,** SoftwareCraft
+
+**Ignacio Paricio,** UX advocate
+
+**Devin Patel**, VP of Business Development, Passport
+
+**Kenasha Paul**, Black Professionals Network
+
+**John Paul Milciunas**, BaseLayer Ventures
+
+**Ana Paula González,** 500 Startups
+
+**Alex Perez**
+
 **Oscar Perez**
 
-**Michael J. Pichardo**
+**Anabel Perez,** NovoPayment
+
+**Matheus Pessanha**, Jobis
+
+**Soledad Picon**
+
+**Alicia Pierre,** Legally Techie™
 
 **Justin Pinn,** Board Member, Miami EdTech
+
+**Julio Poppe** - Ruway Ventures
 
 **Joanna Popper,** HP, Global Head of VR Go-To-Market
 
@@ -264,35 +796,165 @@ The following members of the #MiamiTech community have committed to upholding th
 
 **Gio Punzo,** Streann Media
 
+**Raquel Quezada**
+
+**Ariel Quiñones,** Ironhack
+
+**Cesar Quintero** - The Profit Recipe
+
+**Brent R. Dixon**
+
+**Maurice R. Ferre,** Insightec Chairman & CEO
+
+**Michael R. McCord** - AOA Ventures (Healthcare / RE Focus)
+
+**Arathi Ramappa**
+
 **Ivan Rapin-Smith,** Watsco Ventures
+
+**Carlos Raul Garcia**
+
+**Rachel Raynaud**
 
 **Ryan Rea** @Volvoshine
 
-**Arnoldo J. Reyes**
+**Liz Rebecca Alarcón,** Founder & Executive Director, Pulso
+
+**Keratin Recker**, Authentifi and NTENT
+
+**Mariana Rego,** Senior Product Manager
+
+**Jade Reichling**, EisnerAmper
+
+**Esteban Reyes**
+
+**Max Ringelheim,** When Going Viral
+
+**Marilu Rios**
+
+**Stephanie Rios** - Founder, Pop Squid MKG
+
+**Paul Roatta**, CISSP
 
 **Lynare Robbins,** Executive Director, Global Chamber- Miami Chapter
 
-**Johnny JR Rodrigues,** emb3Ded
+**Lil Roberts**
+
+**Alejandro Rodriguez**
+
+**Josue Rodriguez**
 
 **Alex Rodriguez**  - Azulle
 
+**Ivon Rodriguez**, CMO @ Linqto
+
+**Jocelyn Rodriguez**, Cofounder - Clearfind
+
 **Gabriel Roizner,** Co-founder & CEO Mozper
+
+**Monica Rojas**, Palm Beach Tech
+
+**Gabriela Rolon**
+
+**Jose Romero**
+
+**Hesler Roque**
+
+**Lucas Rosa,** Founder Pedra CRM
+
+**Juan Rosas**, Brandstronaut.com, Future Proof Websites
+
+**Scott Rosenbluth**, CRAZE
+
+**Sara Rosenthal**
+
+**Ashley Rousseau**
+
+**Rebecca Rovirosa-Capote**, L'epic Miami
+
+**Laurent Ruben** - Partner @ French Accelerator / FaBB
 
 **Jorge Ruiz,** CEO, Finconecta
 
+**Joseph Russo**
+
 **Marcelo Russo,** Co-founder and COO, QRoom
 
+**Maria Sabando**, Strategic Advisor
+
+**Gabriela Sabate**
+
+**Gabriela Sabate,** Health Semantics
+
+**Rodolfo Saccoman**
+
+**Phillippe Saint-Just,** Co-Founder
+
+**Brent Saiontz**
+
+**Suzanne Salas**
+
+**Gofredy Salazar** - Co-founder Chelatto Brewing Co
+
+**Thalia Salmon**
+
+**Alesia Salvatierra**
+
+**Michael Samway**, The Business and Human Rights Group
+
+**Ricardo Sangion,** TheVentureCity
+
 **Mike Sarasti,** CIO City of Miami
+
+**Andres Saravia** @ Meridian PDP - Data Privacy
+
+**Alfredo Sarria**, Co-Founder @ SerpGuru
+
+**Mitali Saxena**
+
+**Yuda Saydun**, CyVent
+
+**Mark Scharnitz**
 
 **Bernardo Scheinkman,** Smart Cities Americas
 
 **Michael Schofield**
 
+**Brian Schriner**
+
+**Christian Schweizer,** President HBS Alumni Angels South Florida
+
+**Darrin Scorpio Campbell**
+
+**Darrin Scorpio Campbell,** StartUPs United
+
+**Juan Sebastian Arrubla**
+
+**Nicole Sedlack**, Operations Manager, aīre ventures
+
+**Pablo Segarra**, Esq., CEO of X1492 Media
+
+**Yasiel Segui,** Miami Tech Advocate
+
+**Doron Sherman**, Tech Entrepreneur & Investor, Cloudinary - Kemtai
+
+**Gita Shonek**
+
+**jessica shraybman**
+
 **Marte Siebenhar**
+
+**daniel silber**
+
+**Sebastian Silva**
 
 **Gigi Silver**
 
 **Franklin Sirmans,** Pérez Art Museum Miami
+
+**Sandy Skelaney**, TEDxMiami
+
+**Doug Skoke,** Benjamin Douglas
 
 **Veronica Socarras**
 
@@ -300,878 +962,144 @@ The following members of the #MiamiTech community have committed to upholding th
 
 **Felipe Solano,** Google Cloud
 
+**Pedro Sostre**, Navigate.capital
+
+**Rafael Souza da Silva**
+
+**Yagiz Sozmen**, CORE
+
+**Alex Stancioff**
+
+**abraham starosta**
+
+**Chris Stegner** - CEO & Co-Founder of Very Big Things
+
+**LaToya Stirrup,** Kazmaleje
+
+**Nemanja Stojanovic,** Head of Engineering @ Enki.com
+
+**Markus Straarup,** Founder of Friendspire
+
+**Rachel Streitfeld**, North Bay Village Commissioner
+
+**YULIA STROKOVA**, IMPACT.EDITION
+
+**Andrew Sturner**, Founder Orange Island Ventures, co-founder of Boatsetter, Miami Angels,& Entourage Effect Capital
+
+**Maritza T. Adonis,** MTA Visions Global CSR & Gov’t Relations
+
+**Kimberly T. Henderson,** Neighborhood Housing Services of South Florida
+
+**Juliana Tafur** - Listen Courageously / Orkidea Films
+
+**Ixax Tavarez**
+
+**Mike Teichberg**, InventivHR
+
+**Mike Teichberg,** SHRM-CP
+
 **Rodrigo Teijeiro,** Founder & CEO of RecargaPay
 
-**Roger E. Teran**
+**Alex Tellez,** Ocean Azul Partners
+
+**Ricardo Teran,** Co-founder - FOLIO
+
+**Nev Terzieva**
+
+**Nicki Tessler**
+
+**Natalie Ton**
+
+**Andrea Torres,** Head of Partnerships at Endeavor
 
 **Gessica Tortolano** Wyncode Academy
 
+**David Tuaty** - Poggesi USA
+
 **Max Tuchman,** CEO + Co-Founder of Caribu
+
+**Brandon Turp**
+
+**Onega Ulanova** - Assist.
+
+**Onega Ulanova** LA NDPT
 
 **Cristina Urdaneta**
 
+**Kevin V. Michael,** Co-Founder & CEO, Invizio
+
+**Jorge Valens**
+
+**Catalina Valenzuela** - Innovus Consulting
+
+**Andres Vallejo,** Co-Founder @ Navigate
+
+**Jose Vargas -** PeopleFund.com
+
+**Amanda Vasco**, LAB Miami Ventures
+
 **Carlos Vazquez**
+
+**Hiram Vazquez**, Operating Partner at Seven Seven Six
+
+**Marta Viciedo**, Urban Impact Lab
+
+**Andrea Vigil,** Cushman & Wakefield
+
+**Cesar Villa Garcia**, Advisor - Upsilon Pi Epsilon @ FIU & Software Engineer @ JPMC
+
+**Mauricio Villaescusa**
 
 **David Villegas,** Kuyayky Foundation
 
+**Rodrigo Vogeler**
+
+**Elena Volnova**, PetStore.Direct
+
+**Damian Voltes**, CEO @ Fiera Studio & Patagonia Ventures
+
+**Alex Voronovich**, CashQ Money Transfer
+
+**Patrick Wakeham** - Apurata CEO & co-founder
+
 **Charles Walter,** community advocate and product manager
+
+**Jayda Washington-Boothe**
+
+**Stephen Weaver,** Venture for America
 
 **Will Weinraub,** The Local Leaders Collective
 
+**Scott Weinreb**
+
+**Laurie Weisberg** Creatd COO
+
+**Andy Weiss**
+
+**Jake Wells**
+
+**John Wensveen,** Ph.D., Chief Innovation Officer, Nova Southeastern University
+
+**Julia Wilkinson**, imvest - invent, invest, impact
+
+**Alexandra Wilkis Wilson**, Clerisy
+
+**Rebecca Willett,** software developer
+
+**Nikisha Williams**, Opa-locka CDC
+
+**Michael Wise,** Director of Data Science @ CRANT
+
 **Livio A. Zanardo**
+
+**Giancarlo Zappala**, Co-Founder of Big Motion Studio
+
+**JOAN ZHANG**
 
 **David Zinn**
 
 **Brian Zisk**
 
-**Jimena Zubiria**
-
-**Nelly M. Farra,** Co-Founder + COO of Perchance
-
-**Albert Paredes,** SoftwareCraft
-
-**Mark Scharnitz**
-
-**Jared Husch**
-
-**Janet Kyle Altman**
-
-**Alejandro Mainetto**
-
-**Gita Shonek**
-
-**Mike Teichberg,** SHRM-CP
-
-**Mauricio Villaescusa**
-
-**Roberto Interiano**
-
-**Alvaro Melendez,** CRANT
-
-**Traci Levine**
-
-**Phillippe Saint-Just,** Co-Founder
-
-**Ignacio Paricio,** UX advocate
-
-**Maria Beckles**
-
-**Kimberly T. Henderson,** Neighborhood Housing Services of South Florida
-
-**Yasiel Segui,** Miami Tech Advocate
-
-**Michael Coronado**
-
-**Marcelo C. Freire,** Sr. Director Global Exp. &amp; Innovation
-
-**Amy Knox,**
-
-**LaToya Stirrup,** Kazmaleje
-
-**Bonnie Lee,**
-
-**Haley Kirk,**
-
-**Ken Finneran,** VP Global HR
-
-**Erick Gavin,** Center for Black Innovation
-
-**Juan Pablo Degiovanni,** Crystalzoom
-
-**Beto Garza**
-
-**Andy Weiss**
-
-**Randy Carballo,** Blanca CRE
-
-**Max Ringelheim,** When Going Viral
-
-**Jose Vargas -** PeopleFund.com
-
-**Natalie Ton**
-
-**Isa Bolivar,** Uber
-
-**Kelsey E. Rumburg,** Author of Trash to Treasure
-
-**Markus Straarup,** Founder of Friendspire
-
-**Kyle Maharlika,** Associate @ VCM
-
-**Julia Marina**
-
-**Charles D. Villard**
-
-**Aileen Alon**
-
-**Joseph Russo**
-
-**Kevin Amézaga**
-
-**Miles J. Varghese**
-
-**Sara Rosenthal**
-
-**Sam Blatt,** Miami-Dade Beacon Council
-
-**Yendi,** Doxie Digital Media
-
-**Nemanja Stojanovic,** Head of Engineering @ Enki.com
-
-**Mariana Rego,** Senior Product Manager
-
-**Jake Wells**
-
-**Leo Correa**
-
-**Diana Londono,** International Economic Development
-
-**Brenda Matos,** Product Designer
-
-**Andrea Torres,** Head of Partnerships at Endeavor
-
-**Rachel Lipoff**
-
-**Valerie Lopez,** CEO &amp; Co-founder at Shoot My Travel
-
-**Rebecca Negro Rocha,** Endeavor
-
-**Earle Acosta**
-
-**Tarkan Kocoglu**
-
-**Antoine Forest,** Co Founder - Stargazer.co - Followpass.app
-
-**Joe Chin**
-
-**Lucas Rosa,** Founder Pedra CRM
-
-**Ailyn Guerra**
-
-**Alicia Pierre,** Legally Techie™
-
-**Matias Beeck**
-
-**Stan COIGNARD,** French Tech Miami - Community Lead
-
-**Laurent GALLISSOT,** Consul General of France in Miami
-
-**Greg Horowitz,** Consulate General of Israel in Miami
-
-**Champ Bennett**
-
-**Xavier Gonzalez,** Cyxtera
-
-**David Barkoe,** Carve Communications
-
-**Sarah Nohe**
-
-**Leon Gomez**
-
-**Doug Skoke,** Benjamin Douglas
-
-**Michael Wise,** Director of Data Science @ CRANT
-
-**Sean Daly,** Founder, Expetitle
-
-**Stephen Weaver,** Venture for America
-
-**Jairo Cano,** Caiman Immunizer Antimalware
-
-**Sebastian Gomez Puerto**
-
-**MARIA CLARA MEJIA**
-
-**Ricardo Teran,** Co-founder - FOLIO
-
-**Darrin Scorpio Campbell,** StartUPs United
-
-**Jorge Valens**
-
-**Mellanie Malik**
-
-**Adrienne C. McWilliams,** Co-Founder &amp; CEO of BRIDGE Networks
-
-**Amy Austin Renshaw**
-
-**Suzanne Salas**
-
-**David Bisset**
-
-**Nicki Tessler**
-
-**Juan Sebastian Arrubla**
-
-**Rebecca Willett,** software developer
-
-**Rodrigo Vogeler**
-
-**Matti Marshak LAB Ventures,** Studio CEO
-
-**Gladys Downs**
-
-**Esteban Reyes**
-
-**Alejandro Rodriguez**
-
-**Alex Tellez,** Ocean Azul Partners
-
-**Gabriela Sabate**
-
-**Annette Green Tellez,** Code/Art
-
-**Gabriela Sabate,** Health Semantics
-
-**Jose Fermin,** CEO @ What a TV
-
-**Enrique Garza**
-
-**Kaitlyn Elphinstone,** Cayman Enterprise City
-
-**Christian Schweizer,** President HBS Alumni Angels South Florida
-
-**Gavin Heale**
-
-**Mark Osterman**
-
-**Ricardo Sangion,** TheVentureCity
-
-**Ariel Quiñones,** Ironhack
-
-**Temante Leary**
-
-**Nate Causey**
-
-**Eddie Garcia**
-
-**Edgard D. Duque,** TheVentureCity
-
-**William Herrera,** IT System Engineer
-
-**David Jessup Jr.**
-
-**Camilo Crespo**
-
-**Emily J Gleason**
-
-**Gustavo Grande,** The Idea Center at MDC
-
-**Romi Bhatia**
-
-**Andrea Vigil,** Cushman &amp; Wakefield
-
-**Jonathan Fichman,** Kabot Advisors
-
-**Andre Miranda** - Tech Innovations
-
-**Karin Klein**, Bloomberg Beta
-
-**Juan Rosas**, Brandstronaut.com, Future Proof Websites
-
-**Marilu Rios**
-
-**Timothy Hasse**, Founder of General Provision, Founder of T R I M
-
-**Patricia Garcia**, Founder @ college thrifts
-
-**Mike Lingle** // Rocket Pro Forma
-
-**Juan C. Teran**, CONSULADVISORS LLC
-
-**David Azar**
-
-**jessica shraybman**
-
-**Beatriz Ayala**, Co-founder & CEO Musicasa
-
-**Alesia Salvatierra**
-
-**Nishita Aswani**
-
-**John Levinson**,  Westway Capital
-
-**Alfredo Sarria**, Co-Founder @ SerpGuru
-
-**Douglas Almeida**, Stayfilm
-
-**Claudia Duran**
-
-**AMANDA LEVIEN**
-
-**Monica Rojas**, Palm Beach Tech
-
-**Pedro Sostre**, Navigate.capital
-
-**Daniel Kleinman**, Seaworthy Collective
-
-**Nicolas M Iglesias**
-
-**ANTHONY GINTER**, WATERDIAM GROUP
-
-**Brent Saiontz**
-
-**Kevin Choi**, Resources.co
-
-**Ixax Tavarez**
-
-**Nicolas Lares**, Serial Entreprenuer
-
-**Maria Dreyfus-Ulvert**
-
-**Hans O. Rueckschnat**
-
-**Yuda Saydun**, CyVent
-
-**Branden Bedoya**, Google
-
-**Kevin Levy**, Gray Robinson, P.A.
-
-**maria c. alonso**
-
-**James Irvine**, 305 Works
-
-**Lulu Carbonell**, Liquid Carrot Founder; Cell-Ed VP; LifePath CTO
-
-**Cesar Villa Garcia**, Advisor - Upsilon Pi Epsilon @ FIU & Software Engineer @ JPMC
-
-**Maria Dominguez**, Site Director of CIC Miami
-
 **Essa Zouga**
 
-**Julio Poppe** - Ruway Ventures
-
-**JOAN ZHANG**
-
-**Sebastian Silva**
-
-**Chelsie Cooper**, Approvely
-
-**John Wensveen,** Ph.D., Chief Innovation Officer, Nova Southeastern University
-
-**Irina D Woelfle**
-
-**Laurent Ruben** - Partner @ French Accelerator / FaBB
-
-**Hernan Mayol**, Apprentice Worldwide
-
-**Kenasha Paul**, Black Professionals Network
-
-**Ashley Rousseau**
-
-**Martin Ogawa**
-
-**Fabio Escobar**
-
-**Jose Romero**
-
-**Kayla Cartwright**
-
-**Rachel Streitfeld**, North Bay Village Commissioner
-
-**Jorge Lozano**, Ploosi
-
-**Marcelo Daniel Sanchez**, oneshotapp.com
-
-**Nikki Cabus**, Palm Beach Tech Association
-
-**Alexandra Wilkis Wilson**, Clerisy
-
-**Josue Rodriguez**
-
-**Andres Vallejo,** Co-Founder @ Navigate
-
-**Henry Mederos**, Software Engineer
-
-**Andrew Bowyer**
-
-**Samuel J Morris**, Gigasheen LLC
-
-**Amanda Vasco**, LAB Miami Ventures
-
-**Raul G Faife**, UPEFIU
-
-**Arathi Ramappa**
-
-**Laurie Weisberg** Creatd COO
-
-**Scott Rosenbluth**, CRAZE
-
-**Patrick Corbett**   Founder, Mind Stimuli Labs, Co
-
-**Lynn Hackney**
-
-**Amber Berger**
-
-**John Hall**, Brickell Opportunity Partners
-
-**Will Gendron**
-
-**Chris Stegner** - CEO & Co-Founder of Very Big Things
-
-**Mario L Castellanos**
-
-**Paul Roatta**, CISSP
-
-**Lila de la Chesnaye**, ex-Chewy/Instacart/Nearpod
-
-**Rebecca Rovirosa-Capote**, L'epic Miami
-
-**J.J. Sass**
-
-**Aldo Mora**, Sprezet
-
-**Ernesto Jerónimo Kemmerer**, ek Technology Consulting
-
-**Ashok Deshmukh**
-
-**JJ Ogrey**, Founder
-
-**Akos Balogh**, Moscase Inc
-
-**Devin Patel**, VP of Business Development, Passport
-
-**Fabian Divito**
-
-**Serge Elkiner**
-
-**Laura Gabrysiak**, R-Ladies Miami
-
-**EMILIO ESCARTIN**
-
-**Tamas Doffek**
-
-**Annette King**, Founder & CEO at Muuchit
-
-**Traci Levine**
-
-**Delia DeBuc**, Founder and CEO, iScreen 2 Prevent , LLC
-
-**Richard Bermudez**
-
-**Raquel Quezada**
-
-**Antonio Llanos**, CTO LaCalle Group
-
-**Daniel Brito** - Outcomes Manager @ Ironhack Miami
-
-**Reneida Leon**
-
-**Nicolette Ghimire**
-
-**Rogelio Caceres**, RCG Global
-
-**Jayda Washington-Boothe**
-
-**Danilo E Salazar**
-
-**Sarah Lucas**
-
-**Howard Gitten**
-
-**Daniel Almeida**, Stayfilm
-
-**Julia Wilkinson**, imvest - invent, invest, impact
-
-**Kevin Cadette**, Black Angels Miami
-
-**Jonathan Cox**, CEO and Founder at Grownextdoor
-
-**Paola Correa** - TedXMiami
-
-**Willy Orozco** SoFlo RM for Microsoft TEALS
-
-**Yagiz Sozmen**, CORE
-
-**Patricia Gil**
-
-**Scott Weinreb**
-
-**Erez Hevroni**
-
-**Marlon Hill**
-
-**Marta Viciedo**, Urban Impact Lab
-
-**Kamalah Fletche**r, A Little Help Never Hurt
-
-**Keena Fletcher**, Groups of Good People
-
-**Randy Fuentes**
-
-**Michael Samway**, The Business and Human Rights Group
-
-**Andrew Sturner**, Founder Orange Island Ventures, co-founder of Boatsetter, Miami Angels,& Entourage Effect Capital
-
-**Juan José Portela Zardetto** - CEO  PHLOX Networks a Division of SILIGOM USA LLC
-
-**Susanna Kohly Jacobson**, Google Cuba
-
-**Fabio Iannelli**, ADVANSIS
-
-**Stephanie Rios** - Founder, Pop Squid MKG
-
-**Andrej Kostresevic**, Partner, DART Ventures
-
-**Ivon Rodriguez**, CMO @ Linqto
-
-**Augusto Landestoy**
-
-**Bill Hinostroza**, EasyClout
-
-**Cody A Bess**
-
-**Stacey Kawakami**
-
-**Nicolette Ghimire**
-
-**Rogelio Caceres**, RCG Global
-
-**Jayda Washington-Boothe**
-
-**Danilo E Salazar**
-
-**Sarah Lucas**
-
-**Howard Gitten**
-
-**Daniel Almeida**, Stayfilm
-
-**Julia Wilkinson**, imvest - invent, invest, impact
-
-**Kevin Cadette**, Black Angels Miami
-
-**Jonathan Cox**, CEO and Founder at Grownextdoor
-
-**Paola Correa** - TedXMiami
-
-**Andres Saravia** @ Meridian PDP - Data Privacy
-
-**Willy Orozco** SoFlo RM for Microsoft TEALS
-
-**Yagiz Sozmen**, CORE
-
-**Patricia Gil**
-
-**Scott Weinreb**
-
-**Erez Hevroni**
-
-**Marlon Hill**
-
-**Marta Viciedo**, Urban Impact Lab
-
-**Kamalah Fletcher**, A Little Help Never Hurt
-
-**Keena Fletcher**, Groups of Good People
-
-**Randy Fuentes**
-
-**Michael Samway**, The Business and Human Rights Group
-
-**Andrew Sturner**, Founder Orange Island Ventures, co-founder of Boatsetter, Miami Angels,& Entourage Effect Capital  ,
-
-**Juan José Portela Zardetto** - CEO  PHLOX Networks a Division of SILIGOM USA LLC
-
-**Susanna Kohly Jacobson**, Google Cuba
-
-**Fabio Iannelli**, ADVANSIS
-
-**Stephanie Rios** - Founder, Pop Squid MKG
-
-**Andrej Kostresevic**, Partner, DART Ventures
-
-**Ivon Rodriguez**, CMO @ Linqto
-
-**Augusto Landestoy**
-
-**Bill Hinostroza**, EasyClout
-
-**Cody A Bess**
-
-**Stacey Kawakami**
-
-**Juliana Tafur** - Listen Courageously / Orkidea Films
-
-**Lesley DeCanio**
-
-**Joan M. Godoy,** Radical Partners
-
-**Mitali Saxena**
-
-**CHANAN AVERBUCH**
-
-**Dirk Leifer**, Level 5 Partners
-
-**Ana Ordoñez**
-
-**Brandon Turp**
-
-**Fausto Carassai** @ BigDevsLLC
-
-**Richard Lamondin**
-
-**Matheus Pessanha**, Jobis
-
-**Stephanie Davis**, ex-Googler
-
-**Soledad Picon**
-
-**Jacob Gurrola**, Avisual LLC
-
-**Jade Reichling**, EisnerAmper
-
-**Patricia Beitler**, Velocitas Marketing + PR
-
-**Nikisha Williams**, Opa-locka CDC
-
-**Elizabeth Decker**, President, SIM South Florida
-
-**Mayor Jane Bolin**
-
-**Brenda Freeman** Tech advisor and business leader
-
-**Danny Kattan**
-
-**Colin Campbell**
-
-**Cesar Quintero** - The Profit Recipe
-
-**David Lekach**
-
-**Elena Volnova**, PetStore.Direct
-
-**Lil Roberts**
-
-**Alex Arguelles**
-
-**David Tuaty** - Poggesi USA
-
-**Adele Harrington**, UNCS Evolution
-
-**Alex Stancioff**
-
-**CEO Goran Dragoslavic** First American Telecom
-
-**David Alexandre Brun**, Seeded
-
-**Jordan Guthrie**
-
-**Claudia Akel** - Social Impact Movement
-
-**Paola Iuspa-Abbott**
-
-**Renee Lopez-Cantera**
-
-**Jordan De Leon**, Urban Impact Lab
-
-**Ivo Machado**, Wisecut
-
-**daniel silber**
-
-**Ian Grant II**, WaySlay
-
-**Michelle Bakels**, Boca Code
-
-**Michael Mannino**
-
-**Jorge Mezzadra**
-
-**Lacey Elmange**
-
-**Steven Hadjilogiou**
-
-**Brian Schriner**
-
-**Nancy Anderson Bolton**, Globant
-
-**Nev Terzieva**
-
-**Sandy Skelaney**, TEDxMiami
-
-**Carrie Monescalchi**
-
-**Cynthia M. Fleischmann**
-
-**Gofredy Salazar** - Co-founder Chelatto Brewing Co
-
-**Glenda Pacanins**, The Nineteen & Nine Company
-
-**Margaret Brisbane**
-
-**Tyler Kelley**, Innovation City
-
-**Hesler Roque**
-
-**John Elizabeth Aleman**
-
-**YULIA STROKOVA**, IMPACT.EDITION
-
-**Mike Teichberg**, InventivHR
-
-**Robert Katz**, World Innovation Network
-
-**Damian Voltes**, CEO @ Fiera Studio & Patagonia Ventures
-
-**Keratin Recker**, Authentifi and NTENT
-
-**Ted Miller**
-
-**Carlos Fdo.Ramirez** - AddData co-creator and creative data analysis
-
-**abraham starosta**
-
-**Carolina Chiu**
-
-**Jake Kozloski**
-
-**John Paul Milciunas**, BaseLayer Ventures
-
-**Rodolfo Saccoman**
-
-**Aaron Mandell**
-
-**Bianca Bustamante**
-
-**Christine Cafiso Pulver**, Founder at theheard
-
-**Suraj Hemnani** - Co-founder @ Weather Creative
-
-**Rafael Souza da Silva**
-
-**Aaron Chavez**
-
-**Paige Cortese**
-
-**Gabriela Brown**, Every Woman
-
-**Brian B. Turner**
-
-**Channi Greenwall**, SecurityScorecard
-
-**Ryan Andersen**
-
-**Hiram Vazquez**, Operating Partner at Seven Seven Six
-
-**Patrick Wakeham** - Apurata CEO & co-founder
-
-**Gabriela Mara Schmitman**, Bondy Group
-
-**Lakeshia Grays**, BSEXpress Delivery
-
-**Jennifer Chelenyak**, EY
-
-**Onega Ulanova** LA NDPT
-
-**Onega Ulanova** - Assist.
-
-**Jocelyn Cortez Young** - Minerva Capital
-
-**Chris Johnston**
-
-**Kelly Chess**
-
-**Elizabeth Irizarry**
-
-**Angela Don**, Product Designer
-
-**Douglas Hardin** EatUp Inc
-
-**Nicolas Arroyo**
-
-**Diego Fernández** - Contextus - Social Commerce Platform
-
-**Pablo Gutierrez Oyhanarte**
-
-**Jody Jones**
-
-**Steven Haase**
-
-**Rachel Raynaud**
-
-**Laura James** - CoFounder - JoinLevel.com
-
-**Jocelyn Rodriguez**, Cofounder - Clearfind
-
-**Piotr Jaworski**, Head of New Tech, Jit Team
-
-**Alfred Gonzalez-Cuzan**, Arm Innovator
-
-**Pablo Segarra**, Esq., CEO of X1492 Media
-
-**Alexander Lazar**
-
-**Giancarlo Zappala**, Co-Founder of Big Motion Studio
-
-**Gabriela Rolon**
-
-**Claudia Duran**
-
-**Charles Irizarry**
-
-**Sharon Griemsman** - Year Up, Inc.
-
-**Doron Sherman**, Tech Entrepreneur & Investor, Cloudinary - Kemtai
-
-**Thalia Salmon**
-
-**Alvaro Fernandez**, EFyA Advisors
-
-**Chris Daniels**, The Shrimp Society
-
-**Vanessa Lamarque**
-
-**Jorge Lopez** - Founder of Shipealoo!
-
-**Paola Gonzalez** - @kardioyoga
-
-**Mitchell Gonzalez**
-
-**Alex Voronovich**, CashQ Money Transfer
-
-**Sandy Skelaney**, TEDxMiami
-
-**Alejandro Gutierrez** @AdMobilize
-
-**Daniela Alpert**
-
-**Kevin Choi**
-
-**Prem Lee Barbosa**
-
-**Maria Sabando**, Strategic Advisor
-
-**Andy Amendola**, Tech Advisor and Digital Strategy Expert
-
-**Cecilia Garcia**
-
-**Oscar Paez, Country Head**, ENCONCRETO
-
-**Miriam Cloquell**, Minds of Tomorrow
-
-**Ericka Howard**, Urbanly
-
-**Jacek Grebski** // 7 Train Ventures
-
-**Scarlett Arana**, UnifyIT innovation developer
-
-**Catalina Valenzuela** - Innovus Consulting
-
-**Francesca de Quesada Covey**
-
-**Seba Herrera Cano**
-
-**Jaime BaeA**
-
-**Gabriela Sabate**
-
-**Duygu Aktan**,  Ango AI
-
-**DIEGO MEY**
-
-**Ivania Oberti, Esq** founder of IOBERTI LEGAL
-
-**Dr. B. Sarah Haynes**, Ph.D,  Founder, CEO, CoachEra/Pishevar-Haynes Foundation, Pishevar Family Office, Edison Startup Executive Coach/Investor/Humanitarian
-
-**Darrin Scorpio Campbell** 
-
-**Nicole Sedlack**, Operations Manager, aīre ventures
+**Jimena Zubiria**
