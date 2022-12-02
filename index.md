@@ -2,7 +2,7 @@
 title: 'We are #MiamiTech'
 layout: default
 image: /assets/images/socialimg.png
-counter: 525
+counter: 526
 ---
 Miami has always been a haven for innovators, for builders, for disrupters and for those wielding the power of technology as a tool of change.    
 
@@ -944,31 +944,31 @@ The following members of the #MiamiTech community have committed to upholding th
 
 **Alex Arguelles**
 
-**David Tuaty - Poggesi USA**
+**David Tuaty** - Poggesi USA
 
-**Adele Harrington, UNCS Evolution**
+**Adele Harrington**, UNCS Evolution
 
 **Alex Stancioff**
 
-**CEO Goran Dragoslavic First American Telecom**
+**CEO Goran Dragoslavic** First American Telecom
 
-**David Alexandre Brun, Seeded**
+**David Alexandre Brun**, Seeded
 
 **Jordan Guthrie**
 
-**Claudia Akel - Social Impact Movement**
+**Claudia Akel** - Social Impact Movement
 
 **Paola Iuspa-Abbott**
 
 **Renee Lopez-Cantera**
 
-**Jordan De Leon, Urban Impact Lab**
+**Jordan De Leon**, Urban Impact Lab
 
-**Ivo Machado, Wisecut**
+**Ivo Machado**, Wisecut
 
 **daniel silber**
 
-**Ian Grant II, WaySlay**
+**Ian Grant II**, WaySlay
 
 **Michelle Bakels**, Boca Code
 
@@ -982,19 +982,19 @@ The following members of the #MiamiTech community have committed to upholding th
 
 **Brian Schriner**
 
-**Nancy Anderson Bolton, Globant**
+**Nancy Anderson Bolton**, Globant
 
 **Nev Terzieva**
 
-**Sandy Skelaney, TEDxMiami**
+**Sandy Skelaney**, TEDxMiami
 
 **Carrie Monescalchi**
 
 **Cynthia M. Fleischmann**
 
-**Gofredy Salazar - Co-founder Chelatto Brewing Co**
+**Gofredy Salazar** - Co-founder Chelatto Brewing Co
 
-**Glenda Pacanins, The Nineteen & Nine Company**
+**Glenda Pacanins**, The Nineteen & Nine Company
 
 **Margaret Brisbane**
 
@@ -1004,19 +1004,19 @@ The following members of the #MiamiTech community have committed to upholding th
 
 **John Elizabeth Aleman**
 
-**YULIA STROKOVA, IMPACT.EDITION**
+**YULIA STROKOVA**, IMPACT.EDITION
 
-**Mike Teichberg, InventivHR**
+**Mike Teichberg**, InventivHR
 
-**Robert Katz, World Innovation Network**
+**Robert Katz**, World Innovation Network
 
-**Damian Voltes, CEO @ Fiera Studio & Patagonia Ventures**
+**Damian Voltes**, CEO @ Fiera Studio & Patagonia Ventures
 
-**Keratin Recker, Authentifi and NTENT**
+**Keratin Recker**, Authentifi and NTENT
 
 **Ted Miller**
 
-**Carlos Fdo.Ramirez - AddData co-creator and creative data analysis**
+**Carlos Fdo.Ramirez** - AddData co-creator and creative data analysis
 
 **abraham starosta**
 
@@ -1024,7 +1024,7 @@ The following members of the #MiamiTech community have committed to upholding th
 
 **Jake Kozloski**
 
-**John Paul Milciunas, BaseLayer Ventures**
+**John Paul Milciunas**, BaseLayer Ventures
 
 **Rodolfo Saccoman**
 
@@ -1032,9 +1032,9 @@ The following members of the #MiamiTech community have committed to upholding th
 
 **Bianca Bustamante**
 
-**Christine Cafiso Pulver, Founder at theheard**
+**Christine Cafiso Pulver**, Founder at theheard
 
-**Suraj Hemnani - Co-founder @ Weather Creative**
+**Suraj Hemnani** - Co-founder @ Weather Creative
 
 **Rafael Souza da Silva**
 
@@ -1042,29 +1042,29 @@ The following members of the #MiamiTech community have committed to upholding th
 
 **Paige Cortese**
 
-**Gabriela Brown, Every Woman**
+**Gabriela Brown**, Every Woman
 
 **Brian B. Turner**
 
-**Channi Greenwall, SecurityScorecard**
+**Channi Greenwall**, SecurityScorecard
 
 **Ryan Andersen**
 
-**Hiram Vazquez, Operating Partner at Seven Seven Six**
+**Hiram Vazquez**, Operating Partner at Seven Seven Six
 
-**Patrick Wakeham - Apurata CEO & co-founder**
+**Patrick Wakeham** - Apurata CEO & co-founder
 
-**Gabriela Mara Schmitman, Bondy Group**
+**Gabriela Mara Schmitman**, Bondy Group
 
-**Lakeshia Grays , BSEXpress Delivery**
+**Lakeshia Grays**, BSEXpress Delivery
 
-**Jennifer Chelenyak, EY**
+**Jennifer Chelenyak**, EY
 
-**Onega Ulanova LA NDPT**
+**Onega Ulanova** LA NDPT
 
-**Onega Ulanova - Assist.**
+**Onega Ulanova** - Assist.
 
-**Jocelyn Cortez Young - Minerva Capital**
+**Jocelyn Cortez Young** - Minerva Capital
 
 **Chris Johnston**
 
@@ -1072,13 +1072,13 @@ The following members of the #MiamiTech community have committed to upholding th
 
 **Elizabeth Irizarry**
 
-**Angela Don, Product Designer**
+**Angela Don**, Product Designer
 
-**Douglas Hardin EatUp Inc**
+**Douglas Hardin** EatUp Inc
 
 **Nicolas Arroyo**
 
-**Diego Fernández - Contextus - Social Commerce Platform**
+**Diego Fernández** - Contextus - Social Commerce Platform
 
 **Pablo Gutierrez Oyhanarte**
 
@@ -1088,19 +1088,19 @@ The following members of the #MiamiTech community have committed to upholding th
 
 **Rachel Raynaud**
 
-**Laura James - CoFounder - JoinLevel.com**
+**Laura James** - CoFounder - JoinLevel.com
 
-**Jocelyn Rodriguez, Cofounder - Clearfind**
+**Jocelyn Rodriguez**, Cofounder - Clearfind
 
-**Piotr Jaworski, Head of New Tech, Jit Team**
+**Piotr Jaworski**, Head of New Tech, Jit Team
 
-**Alfred Gonzalez-Cuzan, Arm Innovator**
+**Alfred Gonzalez-Cuzan**, Arm Innovator
 
-**Pablo Segarra, Esq., CEO of X1492 Media**
+**Pablo Segarra**, Esq., CEO of X1492 Media
 
 **Alexander Lazar**
 
-**Giancarlo Zappala, Co-Founder of Big Motion Studio**
+**Giancarlo Zappala**, Co-Founder of Big Motion Studio
 
 **Gabriela Rolon**
 
@@ -1108,29 +1108,29 @@ The following members of the #MiamiTech community have committed to upholding th
 
 **Charles Irizarry**
 
-**Sharon Griemsman - Year Up, Inc.**
+**Sharon Griemsman** - Year Up, Inc.
 
-**Doron Sherman, Tech Entrepreneur & Investor, Cloudinary - Kemtai**
+**Doron Sherman**, Tech Entrepreneur & Investor, Cloudinary - Kemtai
 
 **Thalia Salmon**
 
-**Alvaro Fernandez, EFyA Advisors**
+**Alvaro Fernandez**, EFyA Advisors
 
-**Chris Daniels, The Shrimp Society**
+**Chris Daniels**, The Shrimp Society
 
 **Vanessa Lamarque**
 
-**Jorge Lopez - Founder of Shipealoo!**
+**Jorge Lopez** - Founder of Shipealoo!
 
-**Paola Gonzalez - @kardioyoga**
+**Paola Gonzalez** - @kardioyoga
 
 **Mitchell Gonzalez**
 
-**Alex Voronovich, CashQ Money Transfer**
+**Alex Voronovich**, CashQ Money Transfer
 
-**Sandy Skelaney, TEDxMiami**
+**Sandy Skelaney**, TEDxMiami
 
-**Alejandro Gutierrez @AdMobilize**
+**Alejandro Gutierrez** @AdMobilize
 
 **Daniela Alpert**
 
@@ -1138,21 +1138,21 @@ The following members of the #MiamiTech community have committed to upholding th
 
 **Prem Lee Barbosa**
 
-**Maria Sabando, Strategic Advisor**
+**Maria Sabando**, Strategic Advisor
 
-**Andy Amendola, Tech Advisor and Digital Strategy Expert**
+**Andy Amendola**, Tech Advisor and Digital Strategy Expert
 
 **Cecilia Garcia**
 
-**Oscar Paez, Country Head, ENCONCRETO**
+**Oscar Paez, Country Head**, ENCONCRETO
 
-**Miriam Cloquell, Minds of Tomorrow**
+**Miriam Cloquell**, Minds of Tomorrow
 
-**Ericka Howard, Urbanly**
+**Ericka Howard**, Urbanly
 
-**Jacek Grebski // 7 Train Ventures**
+**Jacek Grebski** // 7 Train Ventures
 
-**Scarlett Arana , UnifyIT innovation developer**
+**Scarlett Arana**, UnifyIT innovation developer
 
 **Catalina Valenzuela** - Innovus Consulting
 
@@ -1173,3 +1173,5 @@ The following members of the #MiamiTech community have committed to upholding th
 **Dr. B. Sarah Haynes**, Ph.D,  Founder, CEO, CoachEra/Pishevar-Haynes Foundation, Pishevar Family Office, Edison Startup Executive Coach/Investor/Humanitarian
 
 **Darrin Scorpio Campbell** 
+
+**Nicole Sedlack**, Operations Manager, aīre ventures
