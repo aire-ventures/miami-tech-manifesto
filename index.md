@@ -2,7 +2,7 @@
 title: 'We are #MiamiTech'
 layout: default
 image: /assets/images/socialimg.png
-counter: 524
+counter: 523
 ---
 Miami has always been a haven for innovators, for builders, for disrupters and for those wielding the power of technology as a tool of change.    
 
@@ -60,9 +60,13 @@ The following members of the #MiamiTech community have committed to upholding th
 
 **Chris Adamo,** CBO/Investor at WhereBy.Us/Letterhead
 
+**Maritza T. Adonis,** MTA Visions Global CSR & Gov’t Relations
+
 **Claudia Akel** - Social Impact Movement
 
 **Duygu Aktan**,  Ango AI
+
+**Liz Rebecca Alarcón,** Founder & Executive Director, Pulso
 
 **Jonatan Alava**
 
@@ -75,6 +79,8 @@ The following members of the #MiamiTech community have committed to upholding th
 **Douglas Almeida**, Stayfilm
 
 **Aileen Alon**
+
+**maria c. alonso**
 
 **Daniela Alpert**
 
@@ -105,8 +111,6 @@ The following members of the #MiamiTech community have committed to upholding th
 **Beatriz Ayala**, Co-founder & CEO Musicasa
 
 **David Azar**
-
-**Brian B. Turner**
 
 **Jaime BaeA**
 
@@ -154,6 +158,8 @@ The following members of the #MiamiTech community have committed to upholding th
 
 **Sam Blatt,** Miami-Dade Beacon Council
 
+**Mayor Jane Bolin**
+
 **Isa Bolivar,** Uber
 
 **Andrew Bowyer**
@@ -175,14 +181,6 @@ The following members of the #MiamiTech community have committed to upholding th
 **Maria Budet,** Beacon Council
 
 **Bianca Bustamante**
-
-**maria c. alonso**
-
-**Marcelo C. Freire,** Sr. Director Global Exp. & Innovation
-
-**Adrienne C. McWilliams,** Co-Founder & CEO of BRIDGE Networks
-
-**Juan C. Teran**, CONSULADVISORS LLC
 
 **Nikki Cabus**, Palm Beach Tech Association
 
@@ -207,6 +205,8 @@ The following members of the #MiamiTech community have committed to upholding th
 **Kayla Cartwright**
 
 **Seth Cassel**
+
+**Mario L Castellanos**
 
 **Luc Castera** - Founder, Octopi
 
@@ -262,13 +262,9 @@ The following members of the #MiamiTech community have committed to upholding th
 
 **Mario Cruz,** Watsco Ventures / Miami Maker Faire
 
-**Edgard D. Duque,** TheVentureCity
-
-**Charles D. Villard**
-
-**Irina D Woelfle**
-
 **Nancy Dahlberg,** Refresh Miami
+
+**Juan Pablo D’Alessandro,** Endeavor
 
 **Sean Daly,** Founder, Expetitle
 
@@ -296,6 +292,8 @@ The following members of the #MiamiTech community have committed to upholding th
 
 **Elizabeth Decker**, President, SIM South Florida
 
+**Juan Pablo Degiovanni,** Crystalzoom
+
 **Antonio Delgado,** Dean of Engineering and Technology at Miami Dade College
 
 **Maria Derchi Russo,** Refresh Miami
@@ -310,6 +308,8 @@ The following members of the #MiamiTech community have committed to upholding th
 
 **Fabian Divito**
 
+**Brent R. Dixon**
+
 **Tamas Doffek**
 
 **Maria Dominguez**, Site Director of CIC Miami
@@ -318,19 +318,15 @@ The following members of the #MiamiTech community have committed to upholding th
 
 **Gladys Downs**
 
-**Yendi,** Doxie Digital Media
+**CEO Goran Dragoslavic** First American Telecom
 
 **Maria Dreyfus-Ulvert**
+
+**Edgard D. Duque,** TheVentureCity
 
 **Claudia Duran**
 
 **Vanessa Duran,** Principal at DCC Accounting
-
-**Kelsey E. Rumburg,** Author of Trash to Treasure
-
-**Danilo E Salazar**
-
-**Roger E. Teran**
 
 **Joshua Eisenberg,** PhD, Lead Scientist NLU @ Artie inc.
 
@@ -346,6 +342,10 @@ The following members of the #MiamiTech community have committed to upholding th
 
 **Fabio Escobar**
 
+**Raul G Faife**, UPEFIU
+
+**Nelly M. Farra,** Co-Founder + COO of Perchance
+
 **Carlos Fdo.Ramirez** - AddData co-creator and creative data analysis
 
 **Jose Fermin,** CEO @ What a TV
@@ -358,11 +358,15 @@ The following members of the #MiamiTech community have committed to upholding th
 
 **Wifredo “Wifi” Fernández** - Scout, Lightspeed Venture Partners
 
+**Maurice R. Ferre,** Insightec Chairman & CEO
+
 **Jonathan Fichman,** Kabot Advisors
 
 **Ken Finneran,** VP Global HR
 
 **Michael A. Finney,** President & CEO, Miami-Dade Beacon Council
+
+**Cynthia M. Fleischmann**
 
 **Kamalah Fletche**r, A Little Help Never Hurt
 
@@ -380,13 +384,11 @@ The following members of the #MiamiTech community have committed to upholding th
 
 **Brenda Freeman** Tech advisor and business leader
 
+**Marcelo C. Freire,** Sr. Director Global Exp. & Innovation
+
 **Michael Friedberg,** Founder/President of SEO Nerd
 
 **Randy Fuentes**
-
-**Raul G Faife**, UPEFIU
-
-**José G. Hernández** — HRNANDEZ
 
 **Maurice Gabriel,** Your Strategic Partner
 
@@ -418,11 +420,17 @@ The following members of the #MiamiTech community have committed to upholding th
 
 **Howard Gitten**
 
+**Emily J Gleason**
+
+**Joan M. Godoy,** Radical Partners
+
 **Leon Gomez**
 
 **Sebastian Gomez Puerto**
 
 **Laura González-Estéfani**
+
+**Ana Paula González,** 500 Startups
 
 **Mitchell Gonzalez**
 
@@ -431,8 +439,6 @@ The following members of the #MiamiTech community have committed to upholding th
 **Xavier Gonzalez,** Cyxtera
 
 **Alfred Gonzalez-Cuzan**, Arm Innovator
-
-**CEO Goran Dragoslavic** First American Telecom
 
 **Claudia Gorham**
 
@@ -455,6 +461,8 @@ The following members of the #MiamiTech community have committed to upholding th
 **Elliot Grossbard** - Head of Growth at ElevateU (HigherEd EdTech)
 
 **Ailyn Guerra**
+
+**Flavio Nicolay Guimaraes**
 
 **Patricio Guitart**
 
@@ -490,6 +498,10 @@ The following members of the #MiamiTech community have committed to upholding th
 
 **Suraj Hemnani** - Co-founder @ Weather Creative
 
+**Kimberly T. Henderson,** Neighborhood Housing Services of South Florida
+
+**José G. Hernández** — HRNANDEZ
+
 **Seba Herrera Cano**
 
 **William Herrera,** IT System Engineer
@@ -506,9 +518,9 @@ The following members of the #MiamiTech community have committed to upholding th
 
 **Jared Husch**
 
-**Laura I Maydón**
-
 **Fabio Iannelli**, ADVANSIS
+
+**Nicolas M Iglesias**
 
 **Roberto Interiano**
 
@@ -520,21 +532,7 @@ The following members of the #MiamiTech community have committed to upholding th
 
 **Paola Iuspa-Abbott**
 
-**Emily J Gleason**
-
-**Samuel J Morris**, Gigasheen LLC
-
-**Michael J. Pichardo**
-
-**Arnoldo J. Reyes**
-
-**J.J. Sass**
-
-**Miles J. Varghese**
-
 **Laura James** - CoFounder - JoinLevel.com
-
-**Mayor Jane Bolin**
 
 **Piotr Jaworski**, Head of New Tech, Jit Team
 
@@ -551,10 +549,6 @@ The following members of the #MiamiTech community have committed to upholding th
 **Chris Johnston**
 
 **Jody Jones**
-
-**Juan José Portela Zardetto** - CEO  PHLOX Networks a Division of SILIGOM USA LLC
-
-**Johnny JR Rodrigues,** emb3Ded
 
 **Pablo Junco**
 
@@ -594,8 +588,6 @@ The following members of the #MiamiTech community have committed to upholding th
 
 **Janet Kyle Altman**
 
-**Mario L Castellanos**
-
 **Angel Lacret.** Founder of Cobuild Lab
 
 **Vanessa Lamarque**
@@ -616,7 +608,7 @@ The following members of the #MiamiTech community have committed to upholding th
 
 **Temante Leary**
 
-**Bonnie Lee,**
+**Bonnie Lee**
 
 **Prem Lee Barbosa**
 
@@ -654,14 +646,6 @@ The following members of the #MiamiTech community have committed to upholding th
 
 **Sarah Lucas**
 
-**Nelly M. Farra,** Co-Founder + COO of Perchance
-
-**Cynthia M. Fleischmann**
-
-**Joan M. Godoy,** Radical Partners
-
-**Nicolas M Iglesias**
-
 **Ivo Machado**, Wisecut
 
 **Kyle Maharlika,** Associate @ VCM
@@ -682,15 +666,21 @@ The following members of the #MiamiTech community have committed to upholding th
 
 **Julia Marina**
 
-**Matti Marshak LAB Ventures,** Studio CEO
+**Matti Marshak,** LAB Ventures, Studio CEO
 
 **Natalia Martinez-Kalinina**
 
 **Brenda Matos,** Product Designer
 
+**Laura I Maydón**
+
 **Hernan Mayol**, Apprentice Worldwide
 
+**Michael R. McCord** - AOA Ventures (Healthcare / RE Focus)
+
 **Kerry McLaney,** 305 Creative & Art Vault
+
+**Adrienne C. McWilliams,** Co-Founder & CEO of BRIDGE Networks
 
 **Henry Mederos**, Software Engineer
 
@@ -702,9 +692,13 @@ The following members of the #MiamiTech community have committed to upholding th
 
 **Jorge Mezzadra**
 
+**Kevin V. Michael,** Co-Founder & CEO, Invizio
+
 **Johanna Mikkola,** CEO & Co-Founder, Wyncode Academy
 
 **Juha Mikkola,** Co-Founder of Wyncode Academy
+
+**John Paul Milciunas**, BaseLayer Ventures
 
 **Ted Miller**
 
@@ -722,19 +716,15 @@ The following members of the #MiamiTech community have committed to upholding th
 
 **Katrina Morris**
 
+**Samuel J Morris**, Gigasheen LLC
+
 **Courtney Murtha**
 
-**Marcia Narine Weldon,** Illuminating Wisdom, LLC
-
 **Rebecca Negro Rocha,** Endeavor
-
-**Flavio Nicolay Guimaraes**
 
 **Sarah Nohe**
 
 **Lisa Nuessle,** General Manager, Ironhack
-
-**Hans O. Rueckschnat**
 
 **Ivania Oberti, Esq** founder of IOBERTI LEGAL
 
@@ -754,25 +744,17 @@ The following members of the #MiamiTech community have committed to upholding th
 
 **Cari Pérez,** General Assembly
 
-**Juan Pablo D’Alessandro,** Endeavor
-
-**Juan Pablo Degiovanni,** Crystalzoom
-
 **Glenda Pacanins**, The Nineteen & Nine Company
 
-**Oscar Paez, Country Head**, ENCONCRETO
+**Oscar Paez**, Country Head, ENCONCRETO
 
-**Albert Paredes,** SoftwareCraft
+**Albert Paredes**, SoftwareCraft
 
-**Ignacio Paricio,** UX advocate
+**Ignacio Paricio**, UX advocate
 
 **Devin Patel**, VP of Business Development, Passport
 
 **Kenasha Paul**, Black Professionals Network
-
-**John Paul Milciunas**, BaseLayer Ventures
-
-**Ana Paula González,** 500 Startups
 
 **Alex Perez**
 
@@ -781,6 +763,8 @@ The following members of the #MiamiTech community have committed to upholding th
 **Anabel Perez,** NovoPayment
 
 **Matheus Pessanha**, Jobis
+
+**Michael J. Pichardo**
 
 **Soledad Picon**
 
@@ -792,6 +776,8 @@ The following members of the #MiamiTech community have committed to upholding th
 
 **Joanna Popper,** HP, Global Head of VR Go-To-Market
 
+**Juan José Portela Zardetto** - CEO  PHLOX Networks a Division of SILIGOM USA LLC
+
 **Emmanuela Prevolis**
 
 **Gio Punzo,** Streann Media
@@ -801,12 +787,6 @@ The following members of the #MiamiTech community have committed to upholding th
 **Ariel Quiñones,** Ironhack
 
 **Cesar Quintero** - The Profit Recipe
-
-**Brent R. Dixon**
-
-**Maurice R. Ferre,** Insightec Chairman & CEO
-
-**Michael R. McCord** - AOA Ventures (Healthcare / RE Focus)
 
 **Arathi Ramappa**
 
@@ -818,13 +798,13 @@ The following members of the #MiamiTech community have committed to upholding th
 
 **Ryan Rea** @Volvoshine
 
-**Liz Rebecca Alarcón,** Founder & Executive Director, Pulso
-
 **Keratin Recker**, Authentifi and NTENT
 
 **Mariana Rego,** Senior Product Manager
 
 **Jade Reichling**, EisnerAmper
+
+**Arnoldo J. Reyes**
 
 **Esteban Reyes**
 
@@ -850,6 +830,8 @@ The following members of the #MiamiTech community have committed to upholding th
 
 **Jocelyn Rodriguez**, Cofounder - Clearfind
 
+**Johnny JR Rodrigues,** emb3Ded
+
 **Gabriel Roizner,** Co-founder & CEO Mozper
 
 **Monica Rojas**, Palm Beach Tech
@@ -874,7 +856,11 @@ The following members of the #MiamiTech community have committed to upholding th
 
 **Laurent Ruben** - Partner @ French Accelerator / FaBB
 
+**Hans O. Rueckschnat**
+
 **Jorge Ruiz,** CEO, Finconecta
+
+**Kelsey E. Rumburg,** Author of Trash to Treasure
 
 **Joseph Russo**
 
@@ -894,6 +880,8 @@ The following members of the #MiamiTech community have committed to upholding th
 
 **Suzanne Salas**
 
+**Danilo E Salazar**
+
 **Gofredy Salazar** - Co-founder Chelatto Brewing Co
 
 **Thalia Salmon**
@@ -910,6 +898,8 @@ The following members of the #MiamiTech community have committed to upholding th
 
 **Alfredo Sarria**, Co-Founder @ SerpGuru
 
+**J.J. Sass**
+
 **Mitali Saxena**
 
 **Yuda Saydun**, CyVent
@@ -923,8 +913,6 @@ The following members of the #MiamiTech community have committed to upholding th
 **Brian Schriner**
 
 **Christian Schweizer,** President HBS Alumni Angels South Florida
-
-**Darrin Scorpio Campbell**
 
 **Darrin Scorpio Campbell,** StartUPs United
 
@@ -986,10 +974,6 @@ The following members of the #MiamiTech community have committed to upholding th
 
 **Andrew Sturner**, Founder Orange Island Ventures, co-founder of Boatsetter, Miami Angels,& Entourage Effect Capital
 
-**Maritza T. Adonis,** MTA Visions Global CSR & Gov’t Relations
-
-**Kimberly T. Henderson,** Neighborhood Housing Services of South Florida
-
 **Juliana Tafur** - Listen Courageously / Orkidea Films
 
 **Ixax Tavarez**
@@ -1002,7 +986,11 @@ The following members of the #MiamiTech community have committed to upholding th
 
 **Alex Tellez,** Ocean Azul Partners
 
+**Juan C. Teran**, CONSULADVISORS LLC
+
 **Ricardo Teran,** Co-founder - FOLIO
+
+**Roger E. Teran**
 
 **Nev Terzieva**
 
@@ -1018,6 +1006,8 @@ The following members of the #MiamiTech community have committed to upholding th
 
 **Max Tuchman,** CEO + Co-Founder of Caribu
 
+**Brian B. Turner**
+
 **Brandon Turp**
 
 **Onega Ulanova** - Assist.
@@ -1026,8 +1016,6 @@ The following members of the #MiamiTech community have committed to upholding th
 
 **Cristina Urdaneta**
 
-**Kevin V. Michael,** Co-Founder & CEO, Invizio
-
 **Jorge Valens**
 
 **Catalina Valenzuela** - Innovus Consulting
@@ -1035,6 +1023,8 @@ The following members of the #MiamiTech community have committed to upholding th
 **Andres Vallejo,** Co-Founder @ Navigate
 
 **Jose Vargas -** PeopleFund.com
+
+**Miles J. Varghese**
 
 **Amanda Vasco**, LAB Miami Ventures
 
@@ -1049,6 +1039,8 @@ The following members of the #MiamiTech community have committed to upholding th
 **Cesar Villa Garcia**, Advisor - Upsilon Pi Epsilon @ FIU & Software Engineer @ JPMC
 
 **Mauricio Villaescusa**
+
+**Charles D. Villard**
 
 **David Villegas,** Kuyayky Foundation
 
@@ -1076,6 +1068,8 @@ The following members of the #MiamiTech community have committed to upholding th
 
 **Andy Weiss**
 
+**Marcia Narine Weldon,** Illuminating Wisdom, LLC
+
 **Jake Wells**
 
 **John Wensveen,** Ph.D., Chief Innovation Officer, Nova Southeastern University
@@ -1089,6 +1083,10 @@ The following members of the #MiamiTech community have committed to upholding th
 **Nikisha Williams**, Opa-locka CDC
 
 **Michael Wise,** Director of Data Science @ CRANT
+
+**Irina D Woelfle**
+
+**Yendi,** Doxie Digital Media
 
 **Livio A. Zanardo**
 
